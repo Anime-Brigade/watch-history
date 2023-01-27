@@ -263,6 +263,110 @@
                 "kaze_no_tani_no_nausicaa"
             ]
         },
+        "Fall 2014": {},
+        "Spring 2015" : {
+            "Random Episode": [
+                "persona_4_the_animation"
+            ],
+            "Completed": [
+                "ansatsu_kyoushitsu_tv",
+                "binan_koukou_chikyuu_bouei_bu_love",
+                "death_parade",
+                "rollinggirls",
+                "hataraku_maou_sama"
+            ]
+        },
+        "Fall 2015": {
+            "Random Episode": [
+                "hourou_musuko"
+            ],
+            "Completed": [
+                "akatsuki_no_yona",
+                "aoharu_x_kikanjuu",
+                "subete_ga_f_ni_naru_the_perfect_insider",
+                "gakkou_gurashi",
+                "himouto_umaru_chan"
+            ]
+        },
+        "Spring 2016": {
+            "Random Episode": [
+                "darker_than_black_kuro_no_keiyakusha",
+                "mononoke",
+                "tennis_no_ouji_sama",
+                "nanatsu_no_taizai",
+                "gunslinger_girl",
+                "dance_with_devils",
+                "luck_logic",
+                "casshern_sins",
+                "mushishi"
+            ],
+            "Completed": [
+                "boku_dake_ga_inai_machi",
+                "dimension_w",
+                "prince_of_stride_alternative",
+                "dagashi_kashi",
+                "log_horizon",
+                "kono_subarashii_sekai_ni_shukufuku_wo"
+            ]
+        },
+        "Fall 2016": {
+            "Random Episode": [
+                "planetes",
+                "fatezero",
+                "haikyuu",
+                "samurai_champloo",
+                "shirobako"
+            ],
+            "Completed": [
+                "orange",
+                "amaama_to_inazuma",
+                "mob_psycho_100",
+                "sakamoto_desu_ga",
+                "shinsekai_yori"
+            ]
+        },
+        "Fall 2017": {
+            "Random Episode": [
+                "fatezero",
+                "shirobako",
+                "uchouten_kazoku",
+                "ghost_in_the_shell",
+                "bounen_no_xamdou",
+                "little_witch_academia_tv",
+                "little_witch_academia_mahoujikake_no_parade"
+            ],
+            "Completed": [
+                "sakura_quest",
+                "gamers",
+                "made_in_abyss",
+                "recreators",
+                "toradora",
+                "kino_no_tabi_the_beautiful_world"
+            ]
+        },
+        "Spring 2018": {
+            "Rotating Series Night": [
+                "sennen_joyuu",
+                "steinsgate",
+                "michiko_to_hatchin",
+                "mind_game",
+                "danshi_koukousei_no_nichijou",
+                "kara_no_kyoukai_1_fukan_fuukei",
+                "princess_tutu",
+                "kara_no_kyoukai_2_satsujin_kousatsu_zen",
+                "yugioh_duel_monsters",
+                "kara_no_kyoukai_3_tsuukaku_zanryuu",
+                "kara_no_kyoukai_4_garan_no_dou",
+                "fatezero",
+                "flcl"
+            ],
+            "Continuing Series Night": [
+                "kami_nomi_zo_shiru_sekai",
+                "nhk_ni_youkoso",
+                "houseki_no_kuni",
+                "recreators"
+            ]
+        },
         "Fall 2018": {
             "Rotating Series Night": [
                 "redline",
@@ -479,115 +583,6 @@
                 "shoujokageki_revue_starlight",
                 "houseki_no_kuni",
                 "grand_blue"
-            ]
-        },
-        "2014-2015": {},
-        "2015-2016": {},
-        "2016-2017": {},
-        "2017-2018": {},
-
-        "Fall 2014": {},
-        "Spring 2015" : {
-            "Random Episode": [
-                "persona_4_the_animation"
-            ],
-            "Completed": [
-                "ansatsu_kyoushitsu_tv",
-                "binan_koukou_chikyuu_bouei_bu_love",
-                "death_parade",
-                "rollinggirls",
-                "hataraku_maou_sama"
-            ]
-        },
-        "Fall 2015": {
-            "Random Episode": [
-                "hourou_musuko"
-            ],
-            "Completed": [
-                "akatsuki_no_yona",
-                "aoharu_x_kikanjuu",
-                "subete_ga_f_ni_naru_the_perfect_insider",
-                "gakkou_gurashi",
-                "himouto_umaru_chan"
-            ]
-        },
-        "Spring 2016": {
-            "Random Episode": [
-                "darker_than_black_kuro_no_keiyakusha",
-                "mononoke",
-                "tennis_no_ouji_sama",
-                "nanatsu_no_taizai",
-                "gunslinger_girl",
-                "dance_with_devils",
-                "luck_logic",
-                "casshern_sins",
-                "mushishi"
-            ],
-            "Completed": [
-                "boku_dake_ga_inai_machi",
-                "dimension_w",
-                "prince_of_stride_alternative",
-                "dagashi_kashi",
-                "log_horizon",
-                "kono_subarashii_sekai_ni_shukufuku_wo"
-            ]
-        },
-        "Fall 2016": {
-            "Random Episode": [
-                "planetes",
-                "fatezero",
-                "haikyuu",
-                "samurai_champloo",
-                "shirobako"
-            ],
-            "Completed": [
-                "orange",
-                "amaama_to_inazuma",
-                "mob_psycho_100",
-                "sakamoto_desu_ga",
-                "shinsekai_yori"
-            ]
-        },
-        "Fall 2017": {
-            "Random Episode": [
-                "fatezero",
-                "shirobako",
-                "uchouten_kazoku",
-                "ghost_in_the_shell",
-                "bounen_no_xamdou",
-                "little_witch_academia_tv",
-                "little_witch_academia_mahoujikake_no_parade"
-            ],
-            "Completed": [
-                "sakura_quest",
-                "gamers",
-                "made_in_abyss",
-                "recreators",
-                "toradora",
-                "kino_no_tabi_the_beautiful_world"
-            ]
-        },
-        "Spring 2018": {
-            "Rotating Series Night": [
-                "sennen_joyuu",
-                "steinsgate",
-                "michiko_to_hatchin",
-                "mind_game",
-                "danshi_koukousei_no_nichijou",
-                "kara_no_kyoukai_1_fukan_fuukei",
-                "princess_tutu",
-                "kara_no_kyoukai_2_satsujin_kousatsu_zen",
-                "yugioh_duel_monsters",
-                "kara_no_kyoukai_3_tsuukaku_zanryuu",
-                "kara_no_kyoukai_4_garan_no_dou",
-                "fatezero",
-                "flcl"
-            ],
-            "Continuing Series Night": [
-                "kami_nomi_zo_shiru_sekai",
-                "nhk_ni_youkoso",
-                "houseki_no_kuni",
-                "recreators"
             ]
         }
     },
