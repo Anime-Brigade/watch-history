@@ -1931,6 +1931,13 @@
             "name": "Mahoutsukai no Yome: Hoshi Matsu Hito (The Ancient Magus' Bride: Those Awaiting a Star)",
             "themes": []
         },
+        "mahoutsukai_no_yome": {
+            "name": "Mahoutsukai no Yome (The Ancient Magus' Bride)",
+            "themes": [
+                { "name": "Here", "url": "https://v.animethemes.moe/MahoutsukaiNoYome-OP1-NCBD1080.webm" },
+                { "name": "You", "url": "https://v.animethemes.moe/MahoutsukaiNoYome-OP2-NCBD1080.webm" }
+            ]
+        },
         "mushishi": {
             "name": "Mushishi",
             "themes": [
@@ -1987,7 +1994,7 @@
             ]
         },
         "shoujo_shuumatsu_ryokou": {
-            "name": "Jujutsu Kaisen",
+            "name": "Shoujo Shuumatsu Ryokou (Girls' Last Tour)",
             "themes": [
                 { "name": "Ugoku, Ugoku", "url": "https://animethemes.moe/video/ShoujoShuumatsuRyokou-OP1-NCBD1080.webm" },
                 { "name": "More One Night", "url": "https://animethemes.moe/video/ShoujoShuumatsuRyokou-ED1-NCBD1080.webm" },
@@ -2052,7 +2059,7 @@
         "new_game": {
             "name": "New Game!",
             "themes": [
-                { "name": "SAKURA Skip", "url": "https://v.animethemes.moe/NewGame-OP1.webm" }
+                { "name": "SAKURA Skip", "url": "https://v.animethemes.moe/NewGame-OP1.webm" },
                 { "name": "Now Loading!!!!", "url": "https://v.animethemes.moe/NewGame-ED1.webm" }
             ]
         },
@@ -2532,7 +2539,7 @@
             "name": "Kara no Kyoukai 4: Garan no Dou (The Garden of Sinners Chapter 4: The Hollow Shrine)",
             "themes": []
         },
-        "ex-arm": {
+        "ex_arm": {
             "name": "Ex-Arm",
             "themes": [
                 { "name": "Rise Again", "url": "https://v.animethemes.moe/ExArm-OP1-NCBD1080.webm" }
