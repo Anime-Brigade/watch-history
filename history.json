@@ -2636,5 +2636,11 @@
             "name": "Gunnm (Battle Angel Alita)",
             "themes": []
         }
-    }
+    },
+    "disabled": [
+        "black_lagoon",
+        "shoujokageki_revue_starlight",
+        "houseki_no_kuni",
+        "grand_blue"
+    ]
 }
