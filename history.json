@@ -742,14 +742,29 @@
             "name": "Clannad: After Story",
             "parent": "clannad",
             "themes": [
-                { "name": "Torch", "url": "https://staging.animethemes.moe/video/ClannadAfterStory-ED1.webm" }
-            ]
+                { "name": "Toki wo Kizamu Uta", "url": "https://v.animethemes.moe/ClannadAfterStory-OP1.webm" },
+                { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1.webm" },
+                { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1v2.webm" },
+                { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1v3.webm" },
+                { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1v4.webm" }
+            ],
+            "comments": "Ana (v1): exceeds length",
+            "comments": "Ana (v2): exceeds length",
+            "comments": "Chiisana Te no Hira (v1): exceeds length",
+            "comments": "Chiisana Te no Hira (v2): exceeds length",
+            "comments": "Dango Daikazoku: uninteresting song, uninteresting visuals",
+            "comments": "Komorebi: uninteresting song, uninteresting visuals",
+            "comments": "Sakura Jokyoku: uninteresting song, uninteresting visuals",
+            "comments": "Shoujo no Gensou: exceeds length"
         },
         "sousei_no_aquarion": {
             "name": "Sousei no Aquarion (Aquarion)",
             "themes": [
+                { "name": "Go Tight", "url": "https://v.animethemes.moe/SouseiNoAquarion-OP2.webm" },
                 { "name": "Sousei no Aquarion", "url": "https://v.animethemes.moe/SouseiNoAquarion-OP1.webm" }
-            ]
+            ],
+            "comments": "Omna Magni (v1): uninteresting song, uninteresting visuals",
+            "comments": "Omna Magni (v2): uninteresting song"
         },
         "saki": {
             "name": "Saki",
