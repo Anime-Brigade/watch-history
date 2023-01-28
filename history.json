@@ -705,7 +705,7 @@
                 { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1.webm" },
                 { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1v2.webm" },
                 { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1v3.webm" },
-                { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1.webm" }
+                { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1.webm" },
                 { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1v2.webm" }
             ],
             "comments": "Gattai Nante Kuso Kurae!! (Gattai Sounyuukyoku Dai Ichi-ban C minor Allegro K2564): uninteresting visuals",
@@ -720,7 +720,7 @@
                 { "name": "Gouin ni Mai Yeah~", "url": "https://v.animethemes.moe/SayonaraZetsubouSensei-OP2.webm" },
                 { "name": "Zessei Bijin", "url": "https://v.animethemes.moe/SayonaraZetsubouSensei-ED1.webm" }
             ],
-            "comments": "Hito toshite Jiku ga Bureteiru: nsfw",
+            "comments": "Hito toshite Jiku ga Bureteiru: nsfw"
         },
         "eve_no_jikan": {
             "name": "Eve no Jikan (Time of Eve)",
@@ -731,12 +731,12 @@
             "themes": [
                 { "name": "Megumeru ~cuckool mix 2007~", "url": "https://v.animethemes.moe/Clannad-OP1.webm" },
                 { "name": "Dango Daikazoku", "url": "https://v.animethemes.moe/Clannad-ED1.webm" }
-            ]
+            ],
             "comments": "Ana (v1): exceeds length",
             "comments": "Ana (v2): uninteresting visuals",
             "comments": "Kage Futatsu: uninteresting visuals",
             "comments": "Kaze no Shoujo: uninteresting visuals",
-            "comments": "Over: exceeds length",
+            "comments": "Over: exceeds length"
         },
         "clannad_after_story": {
             "name": "Clannad: After Story",
@@ -775,7 +775,7 @@
             ],
             "comments": "Zankoku na Negai no Naka de (v1):uninteresting visuals",
             "comments": "Zankoku na Negai no Naka de (v2):uninteresting visuals",
-            "comments": "Zankoku na Negai no Naka de (v3):uninteresting visuals",
+            "comments": "Zankoku na Negai no Naka de (v3):uninteresting visuals"
         },
         "bokurano": {
             "name": "Bokurano (Bokurano: Ours)",
