@@ -627,8 +627,10 @@
             "name": "Code Geass: Hangyaku no Lelouch (Code Geass: Lelouch of the Rebellion)",
             "themes": [
                 { "name": "COLORS", "url": "https://v.animethemes.moe/CodeGeass-OP1.webm" },
+                { "name": "COLORS", "url": "https://v.animethemes.moe/CodeGeass-OP1v2.webm" },
                 { "name": "DICE", "url": "https://files.catbox.moe/lzvdml.webm" },
                 { "name": "Hitomi no Tsubasa", "url": "https://v.animethemes.moe/CodeGeass-OP3.webm" },
+                { "name": "Kaidoku Funou", "url": "https://v.animethemes.moe/CodeGeass-OP2.webm" },
                 { "name": "Kaidoku Funou", "url": "https://v.animethemes.moe/CodeGeass-OP2v2.webm" },
                 { "name": "PHOENIX PRAYER", "url": "https://files.catbox.moe/ocg7or.webm" },
                 { "name": "will-ill", "url": "https://files.catbox.moe/egj275.webm" }
@@ -636,9 +638,7 @@
             "comments": "All Hail Britannia!!!: uninteresting song, uninteresting visuals",
             "comments": "Alone: uninteresting song, uninteresting visuals",
             "comments": "calling: uninteresting visuals",
-            "comments": "COLORS (v2): redundant",
             "comments": "Innocent Days: uninteresting song, uninteresting visuals",
-            "comments": "Kaidoku Funou (v1): redundant",
             "comments": "Masquerade: uninteresting song, uninteresting visuals",
             "comments": "Mosaic Kakera: uninteresting visuals",
             "comments": "Picaresque: uninteresting visuals",
@@ -647,7 +647,7 @@
             "comments": "Yuukyou Seishunka: uninteresting visuals"
         },
         "code_geass_hangyaku_no_lelouch_r2": {
-            "name": "Code Geass: Hangyaku no Lelouch (Code Geass: Lelouch of the Rebellion)",
+            "name": "Code Geass: Hangyaku no Lelouch R2 (Code Geass: Lelouch of the Rebellion R2)",
             "parent": "code_geass_hangyaku_no_lelouch",
             "themes": [
                 { "name": "02~O-Two~", "url": "https://v.animethemes.moe/CodeGeassR2-OP1.webm" },
@@ -672,11 +672,11 @@
             "name": "Kuroshitsuji (Black Butler)",
             "themes": [
                 { "name": "I'm ALIVE!", "url": "https://v.animethemes.moe/Kuroshitsuji-ED1.webm" },
-                { "name": "Monokuro no Kiss", "url": "https://v.animethemes.moe/Kuroshitsuji-OP1.webm" }
+                { "name": "Monokuro no Kiss", "url": "https://v.animethemes.moe/Kuroshitsuji-OP1.webm" },
+                { "name": "Monokuro no Kiss", "url": "https://v.animethemes.moe/Kuroshitsuji-OP1v2.webm" },
+                { "name": "Monokuro no Kiss", "url": "https://v.animethemes.moe/Kuroshitsuji-OP1v3.webm" }
             ],
-            "comments": "Lacrimosa: uninteresting visuals",
-            "comments": "Monokuro no Kiss (v2): redundant",
-            "comments": "Monokuro no Kiss (v3): redundant"
+            "comments": "Lacrimosa: uninteresting visuals"
         },
         "hetalia_axis_powers": {
             "name": "Hetalia Axis Powers",
@@ -703,20 +703,24 @@
                 { "name": "happily ever after", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED2.webm" },
                 { "name": "Minna no Peace", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED3.webm" },
                 { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1.webm" },
+                { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1v2.webm" },
+                { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1v3.webm" },
                 { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1.webm" }
+                { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1v2.webm" }
             ],
             "comments": "Gattai Nante Kuso Kurae!! (Gattai Sounyuukyoku Dai Ichi-ban C minor Allegro K2564): uninteresting visuals",
             "comments": "happily ever after (v1): exceeds length, redundant, uninteresting visuals",
             "comments": "'Libera me' from hell: uninteresting visuals",
             "comments": "Nikopol: uninteresting visuals",
-            "comments": "Rap wa Otoko no Tamashii da! Muri o Tooshite Douri o Kettobasu! Ore-tachi Dai Gurren Dan no Theme o Mimi no Ana Kappojitte Yooku Kikiyagare!! (Short Start Edit): uninteresting visuals",
-            "comments": "Sorairo Days (v2): redundant",
-            "comments": "Sorairo Days (v2): redundant",
-            "comments": "UNDERGROUND (v2): redundant"
+            "comments": "Rap wa Otoko no Tamashii da! Muri o Tooshite Douri o Kettobasu! Ore-tachi Dai Gurren Dan no Theme o Mimi no Ana Kappojitte Yooku Kikiyagare!! (Short Start Edit): uninteresting visuals"
         },
         "sayonara_zetsubou_sensei": {
             "name": "Sayonara Zetsubou Sensei",
-            "themes": []
+            "themes": [
+                { "name": "Gouin ni Mai Yeah~", "url": "https://v.animethemes.moe/SayonaraZetsubouSensei-OP2.webm" },
+                { "name": "Zessei Bijin", "url": "https://v.animethemes.moe/SayonaraZetsubouSensei-ED1.webm" }
+            ],
+            "comments": "Hito toshite Jiku ga Bureteiru: nsfw",
         },
         "eve_no_jikan": {
             "name": "Eve no Jikan (Time of Eve)",
@@ -725,8 +729,14 @@
         "clannad": {
             "name": "Clannad",
             "themes": [
-                { "name": "Megumeru ~cuckool mix 2007~", "url": "https://animethemes.moe/video/Clannad-OP1.webm" }
+                { "name": "Megumeru ~cuckool mix 2007~", "url": "https://v.animethemes.moe/Clannad-OP1.webm" },
+                { "name": "Dango Daikazoku", "url": "https://v.animethemes.moe/Clannad-ED1.webm" }
             ]
+            "comments": "Ana (v1): exceeds length",
+            "comments": "Ana (v2): uninteresting visuals",
+            "comments": "Kage Futatsu: uninteresting visuals",
+            "comments": "Kaze no Shoujo: uninteresting visuals",
+            "comments": "Over: exceeds length",
         },
         "clannad_after_story": {
             "name": "Clannad: After Story",
