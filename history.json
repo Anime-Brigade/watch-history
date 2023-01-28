@@ -588,33 +588,36 @@
     },
     "shows": {
         "baccano": {
-            "name": "Baccano",
+            "name": "Baccano!",
             "themes": [
                 { "name": "Gun's & Roses", "url": "https://animethemes.moe/video/Baccano-OP1.webm" }
-            ]
+            ],
+            "comments": "Calling: uninteresting song, uninteresting visuals"
         },
         "suzumiya_haruhi_no_yuuutsu": {
             "name": "Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)",
             "themes": [
-                { "name": "Bouken Desho Desho?", "url": "https://animethemes.moe/video/SuzumiyaHaruhiNoYuuutsu-OP2.webm" },
-                { "name": "Hare Hare Yukai", "url": "/public/themes/dance.webm" },
+                { "name": "Bouken Desho Desho?", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-OP2.webm" },
                 { "name": "God knows...", "url": "https://files.catbox.moe/4lft76.webm" },
-                { "name": "Lost my music", "url": "https://files.catbox.moe/ylfkie.webm" }
-            ]
+                { "name": "Hare Hare Yukai", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-ED1.webm" },
+                { "name": "Koi no Mikuru Densetsu", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-OP1.webm" }
+            ],
+            "comments": "Lost My Music: uninteresting visuals"
         },
         "suzumiya_haruhi_no_yuuutsu_2009": {
             "name": "Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya) (2009)",
             "parent": "suzumiya_haruhi_no_yuuutsu",
             "themes": [
-                { "name": "Super Driver", "url": "https://animethemes.moe/video/SuzumiyaHaruhiNoYuuutsu2009-OP1.webm" },
-                { "name": "Tomare!", "url": "https://animethemes.moe/video/SuzumiyaHaruhiNoYuuutsu2009-ED1.webm" }
+                { "name": "Super Driver", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu2009-OP1.webm" },
+                { "name": "Tomare!", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu2009-ED1.webm" }
             ]
         },
         "higurashi_no_naku_koro_ni": {
             "name": "Higurashi no Naku Koro ni (Higurashi: When They Cry)",
             "themes": [
                 { "name": "Higurashi no Naku Koro ni", "url": "https://v.animethemes.moe/Higurashi-OP1.webm" }
-            ]
+            ],
+            "comments": "Why, or why not: uninteresting visuals"
         },
         "stranger_mukou_hadan": {
             "name": "Stranger: Mukou Hadan (Sword of the Stranger)",
@@ -623,37 +626,93 @@
         "code_geass_hangyaku_no_lelouch": {
             "name": "Code Geass: Hangyaku no Lelouch (Code Geass: Lelouch of the Rebellion)",
             "themes": [
-                { "name": "COLORS", "url": "https://staging.animethemes.moe/video/CodeGeass-OP1.webm" }
-            ]
+                { "name": "COLORS", "url": "https://v.animethemes.moe/CodeGeass-OP1.webm" },
+                { "name": "DICE", "url": "https://files.catbox.moe/lzvdml.webm" },
+                { "name": "Hitomi no Tsubasa", "url": "https://v.animethemes.moe/CodeGeass-OP3.webm" },
+                { "name": "Kaidoku Funou", "url": "https://v.animethemes.moe/CodeGeass-OP2v2.webm" },
+                { "name": "PHOENIX PRAYER", "url": "https://files.catbox.moe/ocg7or.webm" },
+                { "name": "will-ill", "url": "https://files.catbox.moe/egj275.webm" }
+            ],
+            "comments": "All Hail Britannia!!!: uninteresting song, uninteresting visuals",
+            "comments": "Alone: uninteresting song, uninteresting visuals",
+            "comments": "calling: uninteresting visuals",
+            "comments": "COLORS (v2): redundant",
+            "comments": "Innocent Days: uninteresting song, uninteresting visuals",
+            "comments": "Kaidoku Funou (v1): redundant",
+            "comments": "Masquerade: uninteresting song, uninteresting visuals",
+            "comments": "Mosaic Kakera: uninteresting visuals",
+            "comments": "Picaresque: uninteresting visuals",
+            "comments": "SAKURA BURST: uninteresting visuals",
+            "comments": "Stories: exceeds length, uninteresting song, uninteresting visuals",
+            "comments": "Yuukyou Seishunka: uninteresting visuals"
         },
         "code_geass_hangyaku_no_lelouch_r2": {
             "name": "Code Geass: Hangyaku no Lelouch (Code Geass: Lelouch of the Rebellion)",
             "parent": "code_geass_hangyaku_no_lelouch",
-            "themes": []
+            "themes": [
+                { "name": "02~O-Two~", "url": "https://v.animethemes.moe/CodeGeassR2-OP1.webm" },
+                { "name": "Face2", "url": "https://files.catbox.moe/1tc7hx.webm" },
+                { "name": "WORLD END", "url": "https://v.animethemes.moe/CodeGeassR2-OP2v2.webm" }
+            ],
+            "comments": "Boku wa, Tori ni Naru.: uninteresting song, uninteresting visuals",
+            "comments": "Continued Story: exceeds length, uninteresting song, uninteresting visuals",
+            "comments": "Daydream Believer: uninteresting visuals",
+            "comments": "Innocent Days: uninteresting song, uninteresting visuals",
+            "comments": "Masquerade: uninteresting song, uninteresting visuals",
+            "comments": "Mushoku Toumei: uninteresting song, uninteresting visuals",
+            "comments": "Nunnally: uninteresting song, uninteresting visuals",
+            "comments": "Shiawase Neiro: uninteresting visuals",
+            "comments": "Strange Girl: uninteresting song, uninteresting visuals",
+            "comments": "Waga Routashi Aku no Hana (v1): uninteresting visuals",
+            "comments": "Waga Routashi Aku no Hana (v2): uninteresting visuals",
+            "comments": "WORLD END (v1): redundant",
+            "comments": "Z.E.R.O.: uninteresting visuals"
         },
         "kuroshitsuji": {
-            "name": "Kuroshitsuji (Black Butler",
+            "name": "Kuroshitsuji (Black Butler)",
             "themes": [
+                { "name": "I'm ALIVE!", "url": "https://v.animethemes.moe/Kuroshitsuji-ED1.webm" },
                 { "name": "Monokuro no Kiss", "url": "https://v.animethemes.moe/Kuroshitsuji-OP1.webm" }
             ]
+            "comments": "Lacrimosa: uninteresting visuals",
+            "comments": "Monokuro no Kiss (v2): redundant",
+            "comments": "Monokuro no Kiss (v3): redundant"
         },
         "hetalia_axis_powers": {
             "name": "Hetalia Axis Powers",
             "themes": [
-                { "name": "Marukaite Chikyuu", "url": "https://staging.animethemes.moe/video/HetaliaAxisPowers-ED1.webm" }
+                { "name": "Marukaite Chikyuu (Italy ver.)", "url": "https://v.animethemes.moe/HetaliaAxisPowers-ED1.webm" },
+                { "name": "Marukaite Chikyuu (Germany ver.)", "url": "https://v.animethemes.moe/HetaliaAxisPowers-ED2.webm" },
+                { "name": "Marukaite Chikyuu (Japan ver.)", "url": "https://v.animethemes.moe/HetaliaAxisPowers-ED3.webm" },
+                { "name": "Marukaite Chikyuu (Russia ver.)", "url": "https://v.animethemes.moe/HetaliaAxisPowers-ED4.webm" },
+                { "name": "Marukaite Chikyuu (United Kingdom ver.)", "url": "https://v.animethemes.moe/HetaliaAxisPowers-ED5.webm" },
+                { "name": "Marukaite Chikyuu (France ver.)", "url": "https://v.animethemes.moe/HetaliaAxisPowers-ED6.webm" },
+                { "name": "Marukaite Chikyuu (America ver.)", "url": "https://v.animethemes.moe/HetaliaAxisPowers-ED7.webm" }
             ]
         },
         "higashi_no_eden": {
             "name": "Higashi no Eden (Eden of the East)",
             "themes": [
-                { "name": "FALLING DOWN", "url": "https://v.animethemes.moe/HigashiNoEden-OP1.webm" }
+                { "name": "FALLING DOWN", "url": "https://v.animethemes.moe/HigashiNoEden-OP1.webm" },
+                { "name": "futuristic imagination", "url": "https://v.animethemes.moe/HigashiNoEden-ED1.webm" }
             ]
         },
         "tengen_toppa_gurren_lagann": {
             "name": "Tengen Toppa Gurren Lagann",
             "themes": [
-                { "name": "Sorairo Days", "url": "https://animethemes.moe/video/TengenToppaGurrenLagann-OP1.webm" }
+                { "name": "happily ever after", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED2.webm" },
+                { "name": "Minna no Peace", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED3.webm" },
+                { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1.webm" },
+                { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1.webm" }
             ]
+            "comments": "Gattai Nante Kuso Kurae!! (Gattai Sounyuukyoku Dai Ichi-ban C minor Allegro K2564): uninteresting visuals",
+            "comments": "happily ever after (v1): exceeds length, redundant, uninteresting visuals",
+            "comments": "'Libera me' from hell: uninteresting visuals",
+            "comments": "Nikopol: uninteresting visuals",
+            "comments": "Rap wa Otoko no Tamashii da! Muri o Tooshite Douri o Kettobasu! Ore-tachi Dai Gurren Dan no Theme o Mimi no Ana Kappojitte Yooku Kikiyagare!! (Short Start Edit): uninteresting visuals",
+            "comments": "Sorairo Days (v2): redundant",
+            "comments": "Sorairo Days (v2): redundant",
+            "comments": "UNDERGROUND (v2): redundant"
         },
         "sayonara_zetsubou_sensei": {
             "name": "Sayonara Zetsubou Sensei",
@@ -968,7 +1027,7 @@
             ]
         },
         "mahou_shoujo_madokamagica": {
-            "name": "Mahou Shoujo Madoka★Magica",
+            "name": "Fractale",
             "themes": [
                 { "name": "Connect", "url": "https://v.animethemes.moe/MadokaMagica-OP1-NCBD1080.webm" },
                 { "name": "Credens justitiam", "url": "https://files.catbox.moe/xgmi89.webm" }
