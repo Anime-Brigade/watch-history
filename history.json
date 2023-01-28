@@ -750,8 +750,7 @@
             ],
             "comments": "Ana (v1): exceeds length",
             "comments": "Ana (v2): exceeds length",
-            "comments": "Chiisana Te no Hira (v1): exceeds length",
-            "comments": "Chiisana Te no Hira (v2): exceeds length",
+            "comments": "Chiisana Te no Hira: exceeds length",
             "comments": "Dango Daikazoku: uninteresting song, uninteresting visuals",
             "comments": "Komorebi: uninteresting song, uninteresting visuals",
             "comments": "Sakura Jokyoku: uninteresting song, uninteresting visuals",
@@ -769,8 +768,14 @@
         "saki": {
             "name": "Saki",
             "themes": [
-                { "name": "Glossy:MMM", "url": "https://v.animethemes.moe/Saki-OP1-NCBD1080.webm" }
-            ]
+                { "name": "bloooomin'", "url": "https://v.animethemes.moe/Saki-OP2.webm" },
+                { "name": "Glossy:MMM", "url": "https://v.animethemes.moe/Saki-OP1-NCBD1080.webm" },
+                { "name": "Netsuretsu Kangei Wonderland", "url": "https://v.animethemes.moe/Saki-ED1.webm" },
+                { "name": "Shikakui Uchuu de Matteru yo", "url": "https://v.animethemes.moe/Saki-ED3.webm" }
+            ],
+            "comments": "Zankoku na Negai no Naka de (v1):uninteresting visuals",
+            "comments": "Zankoku na Negai no Naka de (v2):uninteresting visuals",
+            "comments": "Zankoku na Negai no Naka de (v3):uninteresting visuals",
         },
         "bokurano": {
             "name": "Bokurano (Bokurano: Ours)",
