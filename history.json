@@ -781,11 +781,15 @@
             "name": "Bokurano (Bokurano: Ours)",
             "themes": [
                 { "name": "Uninstall", "url": "https://v.animethemes.moe/Bokurano-OP1.webm" }
-            ]
+            ],
+            "comments": "Little Bird: uninteresting song",
+            "comments": "Lost Innocent: exceeds length",
+            "comments": "Vermillion: uninteresting visuals"
         },
         "asura_cryin": {
             "name": "Asura Cryin'",
             "themes": [
+                { "name": "Link", "url": "https://v.animethemes.moe/AsuraCryin-ED1.webm" },
                 { "name": "Spiral", "url": "https://v.animethemes.moe/AsuraCryin-OP1.webm" }
             ]
         },
@@ -793,7 +797,8 @@
             "name": "Princess Tutu",
             "themes": [
                 { "name": "Morning Grace", "url": "https://v.animethemes.moe/PrincessTutu-OP1.webm" }
-            ]
+            ],
+            "comments": "Watashi No Ai Wa Chiisaikeredo: uninteresting visuals"
         },
         "air": {
             "name": "Air",
