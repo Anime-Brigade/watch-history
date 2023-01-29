@@ -453,7 +453,8 @@
                 "flcl",
                 "shouwa_genroku_rakugo_shinjuu",
                 "nihon_animator_mihonichi",
-                "kaze_no_tani_no_nausicaa"
+                "kaze_no_tani_no_nausicaa",
+                "henkei_shoujo"
             ],
             "Theme Night: Halloween": [
                 "ayakashi_japanese_classic_horror",
@@ -465,7 +466,8 @@
                 "flip_flappers",
                 "mousou_dairinin",
                 "mahoutsukai_no_yome",
-                "shoujo_shuumatsu_ryokou"
+                "shoujo_shuumatsu_ryokou",
+                "shoujo_shuumatsu_jugyou"
             ]
         },
         "Spring 2021": {
@@ -513,6 +515,12 @@
             ],
             "FLCL Night": [
                 "flcl"
+            ],
+            "Holloweeb Discussion Night": [
+                "amemiya_san"
+            ],
+            "Discussion Night": [
+                "hetalia_axis_powers"
             ]
         },
         "Spring 2022": {
@@ -524,7 +532,11 @@
                 "osana_reimu",
                 "yuri_on_ice",
                 "aoi_bungaku_series",
-                "nichijou"
+                "nichijou",
+                "hotarubi_no_mori_e",
+                "kotonoha_no_niwa",
+                "steamboy",
+                "tekkon_kinkreet"
             ],
             "JoJo Night": [
                 "jo_jo_no_kimyou_na_bouken_part_6_stone_ocean"
@@ -538,6 +550,15 @@
             "After Hours": [
                 "ex_arm",
                 "mad_bull_34"
+            ],
+            "Derek Night": [
+                "olympia_kyklos",
+                "henkei_shoujo",
+                "null_peta",
+                "pui_pui_molcar",
+                "there_she_is",
+                "yama_no_susume",
+                "yami_shibai"
             ]
         },
         "Fall 2022": {
@@ -583,6 +604,10 @@
                 "shoujokageki_revue_starlight",
                 "houseki_no_kuni",
                 "grand_blue"
+            ],
+            "Lunar New Year Night": [
+                "xiao_lu_he_xiao_lan",
+                "shiguang_dailiren"
             ]
         }
     },
@@ -812,27 +837,60 @@
             "name": "Mahou Shoujo Lyrical Nanoha (Magical Girl Lyrical Nanoha)",
             "themes": [
                 { "name": "Innocent Starter", "url": "https://v.animethemes.moe/Nanoha-OP1.webm" }
-            ]
+            ],
+            "comments": "Little Wish ~lyrical step~: uninteresting visuals",
+            "comments": "Take a shot: exceeds length"
         },
         "heppoko_jikken_animation_excelsaga": {
             "name": "Heppoko Jikken Animation Excel♥Saga",
             "themes": [
-                { "name": "Ai (Chuuseishin)", "url": "https://v.animethemes.moe/ExcelSaga-OP1.webm" }
+                { "name": "Ai (Chuuseishin)", "url": "https://v.animethemes.moe/ExcelSaga-OP1.webm" },
+                { "name": "Ai (Chuuseishin)", "url": "https://v.animethemes.moe/ExcelSaga-OP1v2.webm" },
+                { "name": "Menchi Aishou no Bolero", "url": "https://v.animethemes.moe/ExcelSaga-ED1.webm" },
+                { "name": "Menchi Aishou no Bolero (Gyakuna)", "url": "https://v.animethemes.moe/ExcelSaga-ED2.webm" }
             ]
         },
         "jungle_wa_itsumo_hare_nochi_guu_deluxe": {
             "name": "Jungle wa Itsumo Hare nochi Guu Deluxe (Haré+Guu Deluxe)",
             "themes": [
-                { "name": "Love Tropicana Deluxe", "url": "https://v.animethemes.moe/HareGuuDeluxe-OP1.webm" }
+                { "name": "Fun Fun & Shout", "url": "https://v.animethemes.moe/HareGuuDeluxe-ED1.webm" },
+                { "name": "Love Tropicana Deluxe", "url": "https://v.animethemes.moe/LuckyStar-ED13.webm" }
             ]
         },
         "luckystar": {
             "name": "Lucky☆Star",
             "themes": [
+                { "name": "Ai wa Boomerang", "url": "https://v.animethemes.moe/LuckyStar-ED24.webm" },
+                { "name": "Gravity", "url": "https://files.catbox.moe/7tcohu.webm" },
+                { "name": "Hare Hare Yukai", "url": "https://v.animethemes.moe/LuckyStar-ED14.webm" },
+                { "name": "Hare Hare Yukai", "url": "https://files.catbox.moe/63ya52.webm" },
+                { "name": "Kaorin no Theme", "url": "https://v.animethemes.moe/LuckyStar-ED18.webm" },
+                { "name": "Mikuru Henshin! Soshite Sentou!", "url": "https://v.animethemes.moe/LuckyStar-ED23.webm" },
+                { "name": "Misoji Misaki", "url": "https://v.animethemes.moe/LuckyStar-ED16.webm" },
                 { "name": "Motteke! Sailor Fuku", "url": "https://animethemes.moe/video/LuckyStar-OP1.webm" },
-                { "name": "Hare Hare Yukai", "url": "https://animethemes.moe/video/LuckyStar-ED14.webm" },
-                { "name": "Gravity", "url": "https://files.catbox.moe/7tcohu.webm" }
-            ]
+                { "name": "Motteke! Sailor Fuku (Aimai Sunshine Ver.)", "url": "https://v.animethemes.moe/LuckyStar-ED17.webm" },
+                { "name": "Omuko Rumba", "url": "https://v.animethemes.moe/LuckyStar-ED20.webm" },
+                { "name": "Ore no Wasuremono", "url": "https://v.animethemes.moe/LuckyStar-ED13.webm" },
+                { "name": "Otoko no Iki-sama", "url": "https://v.animethemes.moe/LuckyStar-ED19.webm" },
+                { "name": "Sakura Saku Mirai Koi Yume", "url": "https://files.catbox.moe/c9b6tg.webm" },
+                { "name": "Shikaidaa no Uta", "url": "https://v.animethemes.moe/LuckyStar-ED21.webm" },
+                { "name": "Shiraishi Medley", "url": "https://v.animethemes.moe/LuckyStar-ED22.webm" }
+            ],
+            "comments": "Cha-La Head-Cha-La: uninteresting visuals",
+            "comments": "Chijou no Hoshi: uninteresting visuals",
+            "comments": "Doraemon no Uta: uninteresting visuals",
+            "comments": "God knows...: uninteresting song",
+            "comments": "Ike! Godman / Makenaide: uninteresting visuals",
+            "comments": "I'm Proud: uninteresting visuals",
+            "comments": "Koi no Minoru Densetsu: uninteresting song",
+            "comments": "Kogarashi ni Dakarete: uninteresting visuals",
+            "comments": "Kuchibiru Daydream: uninteresting visuals",
+            "comments": "Monkey Magic: uninteresting visuals",
+            "comments": "Sailor Fuku to Kikanjuu: uninteresting visuals",
+            "comments": "Shouri da! Akumaizer 3: uninteresting visuals",
+            "comments": "Sore ga, Ai Deshou: uninteresting visuals",
+            "comments": "Uchuu Tetsujin Kyoodain: uninteresting visuals",
+            "comments": "Valentine Kiss: uninteresting visuals"
         },
         "bokusatsu_tenshi_dokuro_chan": {
             "name": "Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan)",
@@ -2670,6 +2728,66 @@
         },
         "gunnm": {
             "name": "Gunnm (Battle Angel Alita)",
+            "themes": []
+        },
+        "xiao_lu_he_xiao_lan": {
+            "name": "Xiao Lu He Xiao Lan (Beryl and Sapphire)",
+            "themes": []
+        },
+        "shiguang_dailiren": {
+            "name": "Shiguang Dailiren (Link Click)",
+            "themes": []
+        },
+        "olympia_kyklos": {
+            "name": "Bessatsu Olympia Kyklos (Extra Olympia Kyklos)",
+            "themes": []
+        },
+        "henkei_shoujo": {
+            "name": "Henkei Shoujo",
+            "themes": []
+        },
+        "hotarubi_no_mori_e": {
+            "name": "Hotarubi no Mori e (Into the Forest of Fireflies' Light)",
+            "themes": []
+        },
+        "kotonoha_no_niwa": {
+            "name": "Kotonoha no Niwa (The Garden of Words)",
+            "themes": []
+        },
+        "null_peta": {
+            "name": "Null Peta (Null & Peta)",
+            "themes": []
+        },
+        "pui_pui_molcar": {
+            "name": "Pui Pui Molcar",
+            "themes": []
+        },
+        "shoujo_shuumatsu_jugyou": {
+            "name": "Shoujo Shuumatsu Jugyou",
+            "themes": []
+        },
+        "steamboy": {
+            "name": "Steamboy",
+            "themes": []
+        },
+        "tekkon_kinkreet": {
+            "name": "Tekkon Kinkreet",
+            "themes": []
+        },
+        "there_she_is": {
+            "name": "There She Is!!",
+            "themes": []
+        },
+        "yama_no_susume": {
+            "name": "Yama no Susume (Encouragement of Climb)",
+            "themes": []
+        },
+        "yami_shibai": {
+            "name": "Yami Shibai (Theatre of Darkness: Yamishibai)",
+            "themes": []
+        },
+        "amemiya_san": {
+            "name": "Amemiya-san",
             "themes": []
         }
     },
