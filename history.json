@@ -896,45 +896,73 @@
             "name": "Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan)",
             "themes": [
                 { "name": "Bokusatsu Tenshi Dokuro-Chan", "url": "https://v.animethemes.moe/BokusatsuTenshiDokuroChan-OP1.webm" }
-            ]
+            ],
+            "comments": "SURVIVE: uninteresting visuals"
         },
         "kaichou_wa_maid_sama": {
             "name": "Kaichou wa Maid-sama! (Maid-Sama!)",
             "themes": [
-                { "name": "My Secret", "url": "https://v.animethemes.moe/KaichouWaMaidSama-OP1.webm" }
+                { "name": "My Secret", "url": "https://v.animethemes.moe/KaichouWaMaidSama-OP1.webm" },
+                { "name": "Yokan", "url": "https://v.animethemes.moe/KaichouWaMaidSama-ED1.webm" },
+                { "name": "∞ Loop", "url": "https://v.animethemes.moe/KaichouWaMaidSama-ED2.webm" }
             ]
         },
         "heroman": {
             "name": "Heroman",
             "themes": [
+                { "name": "Boku no Te wa Kimi no Tame ni", "url": "https://v.animethemes.moe/Heroman-ED2.webm" },
+                { "name": "CALLING", "url": "https://v.animethemes.moe/Heroman-ED1.webm" },
+                { "name": "missing", "url": "https://v.animethemes.moe/Heroman-OP2.webm" },
                 { "name": "Roulette", "url": "https://v.animethemes.moe/Heroman-OP1.webm" }
             ]
         },
         "arakawa_under_the_bridge": {
             "name": "Arakawa Under the Bridge",
             "themes": [
-                { "name": "Venus to Jesus", "url": "https://staging.animethemes.moe/video/ArakawaUnderTheBridge-OP1.webm" },
-                { "name": "Title nante Jibun de Kangaenasaina", "url": "https://staging.animethemes.moe/video/ArakawaUnderTheBridge-OP2.webm" }
+                { "name": "Sakasama Bridge", "url": "https://v.animethemes.moe/ArakawaUnderTheBridge-ED1.webm" },
+                { "name": "Title nante Jibun de Kangaenasaina", "url": "https://v.animethemes.moe/ArakawaUnderTheBridge-OP2.webm" },
+                { "name": "Venus to Jesus", "url": "https://v.animethemes.moe/ArakawaUnderTheBridge-OP1.webm" }
             ]
         },
         "angel_beats": {
             "name": "Angel Beats!",
             "themes": [
-                { "name": "My Soul, Your Beats!", "url": "https://animethemes.moe/video/AngelBeats-OP1.webm" },
-                { "name": "Alchemy", "url": "https://files.catbox.moe/ubinei.webm" }
-            ]
+                { "name": "Alchemy", "url": "https://files.catbox.moe/ubinei.webm" },
+                { "name": "My song", "url": "https://v.animethemes.moe/AngelBeats-ED3.webm" },
+                { "name": "My Soul, Your Beats!", "url": "https://v.animethemes.moe/AngelBeats-OP1.webm" },
+                { "name": "My Soul, Your Beats!", "url": "https://v.animethemes.moe/AngelBeats-OP2.webm" }
+            ],
+            "comments": "Brave Song: uninteresting visuals",
+            "comments": "Crow Song: exceeds length",
+            "comments": "Ichiban no Takaramono: exceeds length",
+            "comments": "Ichiban no Takaramono ~Yui final ver.~: exceeds length",
+            "comments": "Thousand Enemies: exceeds length"
         },
         "the_big_o": {
             "name": "The Big O",
             "themes": [
-                { "name": "Big-O!", "url": "https://v.animethemes.moe/TheBigO-OP1.webm" }
-            ]
+                { "name": "Big-O!", "url": "https://v.animethemes.moe/TheBigO-OP1.webm" },
+                { "name": "Big-O! Show Must Go On", "url": "https://files.catbox.moe/prtv5x.webm" },
+                { "name": "Respect", "url": "https://v.animethemes.moe/TheBigO-OP2.webm" }
+            ],
+            "comments": "And Forever...: uninteresting visuals"
         },
         "michiko_to_hatchin": {
             "name": "Michiko to Hatchin",
             "themes": [
-                { "name": "Paraiso", "url": "https://v.animethemes.moe/MichikoToHatchin-OP1.webm" }
-            ]
+                { "name": "Best Friend", "url": "https://v.animethemes.moe/MichikoToHatchin-ED1.webm" }
+            ],
+            "comments": "Ao seu lado: exceeds length",
+            "comments": "Calça de ginástica: uninteresting visuals",
+            "comments": "Desencanto: uninteresting visuals",
+            "comments": "Febre 1980: uninteresting visuals",
+            "comments": "Nada pode me parar agora: exceeds length",
+            "comments": "Papo Cafajeste: nsfw",
+            "comments": "Paraiso: nsfw",
+            "comments": "Posto de gasolina: uninteresting visuals",
+            "comments": "Prova de amor: exceeds length",
+            "comments": "Temporada das frutas: uninteresting visuals",
+            "comments": "Você sabe: uninteresting visuals"
         },
         "minami_ke": {
             "name": "Minami-ke",
