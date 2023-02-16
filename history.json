@@ -967,14 +967,24 @@
         "minami_ke": {
             "name": "Minami-ke",
             "themes": [
+                { "name": "Colorful DAYS", "url": "https://v.animethemes.moe/Minamike-ED1.webm" },
+                { "name": "Colorful DAYS", "url": "https://v.animethemes.moe/Minamike-ED1v2.webm" },
                 { "name": "Keikenchi Joushouchuu☆", "url": "https://v.animethemes.moe/Minamike-OP1.webm" }
             ]
         },
         "samurai_champloo": {
             "name": "Samurai Champloo",
             "themes": [
-                { "name": "Battlecry", "url": "https://v.animethemes.moe/SamuraiChamploo-OP1-NCBD1080.webm" }
-            ]
+                { "name": "Battlecry", "url": "https://v.animethemes.moe/SamuraiChamploo-OP1-NCBD1080.webm" },
+                { "name": "Shiki no Uta", "url": "https://v.animethemes.moe/SamuraiChamploo-ED1-NCBD1080.webm" },
+                { "name": "Shiki no Uta", "url": "https://v.animethemes.moe/SamuraiChamploo-ED1v2.webm" }
+            ],
+            "comments": "Hiji Zuru Style: uninteresting visuals",
+            "comments": "FLY [SMALL CIRCLE OF FRIENDS]: uninteresting song",
+            "comments": "Obokuri ~ Ee Umi: exceeds length",
+            "comments": "San Francisco: uninteresting song",
+            "comments": "Who's Theme: exceeds length",
+            "comments": "YOU: exceeds length"
         },
         "toradora": {
             "name": "Toradora",
