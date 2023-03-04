@@ -597,7 +597,11 @@
                 "trigun_stampede",
                 "buddy_daddies",
                 "hikari_no_ou",
-                "tensei_oujo_to_tensai_reijou_no_mahou_kakumei"
+                "tensei_oujo_to_tensai_reijou_no_mahou_kakumei",
+                "mahou_shoujo_madokamagica_movie_3_hangyaku_no_monogatari",
+                "suzumiya_haruhi_no_yuuutsu",
+                "ninja_batman",
+                "genshiken"
             ],
             "Continuing Series Night": [
                 "black_lagoon",
@@ -608,7 +612,16 @@
             "Lunar New Year Night": [
                 "xiao_lu_he_xiao_lan",
                 "shiguang_dailiren"
-            ]
+            ],
+            "Boxing Night": [
+                "ashita_no_joe",
+                "hajime_no_ippo",
+                "baki",
+                "megalo_box"
+            ],
+            "Touhou Presentation Night": {
+                "kkhta"
+            }
         }
     },
     "shows": {
@@ -1921,7 +1934,8 @@
         "genshiken": {
             "name": "Genshiken (The Society for the Study of Modern Visual Culture)",
             "themes": [
-                { "name": "Kujibiki Unbalance", "url": "https://v.animethemes.moe/Genshiken-OP1.webm" }
+                { "name": "Kujibiki Unbalance", "url": "https://v.animethemes.moe/Genshiken-OP1.webm" },
+                { "name": "My Pace Daioh", "url": "https://v.animethemes.moe/Genshiken-OP2.webm" }
             ]
         },
         "bakemono_no_ko": {
@@ -2827,6 +2841,28 @@
         "amemiya_san": {
             "name": "Amemiya-san",
             "themes": []
+        },
+        "mahou_shoujo_madokamagica_movie_3_hangyaku_no_monogatari": {
+            "name": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari (Rebellion)",
+            "themes": []
+        },
+        "ninja_batman": {
+            "name": "Ninja Batman",
+            "themes": []
+        },
+        "hajime_no_ippo": {
+            "name": "Hajime no Ippo",
+            "themes": []
+        },
+        "baki": {
+            "name": "Baki",
+            "themes": []
+        },
+        "kkhta": {
+            "name": "Koishi Komeiji's Heart-Throbbing Adventure",
+            "themes": [
+                { "name": "Opening Theme", "url": "/public/themes/kkhta.webm" }
+            ]
         }
     },
     "disabled": [
