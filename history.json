@@ -1000,10 +1000,17 @@
             "comments": "YOU: exceeds length"
         },
         "toradora": {
-            "name": "Toradora",
+            "name": "Toradora!",
             "themes": [
-                { "name": "Pre-Parade", "url": "https://animethemes.moe/video/Toradora-OP1.webm" }
-            ]
+                { "name": "Pre-Parade", "url": "https://v.animethemes.moe/Toradora-OP1.webm" },
+                { "name": "silky heart", "url": "https://v.animethemes.moe/Toradora-OP2.webm" },
+                { "name": "Vanilla Salt", "url": "https://v.animethemes.moe/Toradora-ED1.webm" }
+            ],
+            "comments": "Holy Night: uninteresting song",
+            "comments": "Orange (v1): uninteresting visuals",
+            "comments": "Orange (v2): uninteresting song",
+            "comments": "Orange (v3): uninteresting song",
+            "comments": "Orange (v4): uninteresting song"
         },
         "mitsudomoe": {
             "name": "Mitsudomoe",
