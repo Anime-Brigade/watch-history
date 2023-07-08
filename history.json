@@ -1015,29 +1015,52 @@
         "mitsudomoe": {
             "name": "Mitsudomoe",
             "themes": [
-                { "name": "Mittsu Kazoete Daishuugou!", "url": "https://v.animethemes.moe/Mitsudomoe-OP1.webm" }
-            ]
+                { "name": "Mittsu Kazoete Daishuugou!", "url": "https://v.animethemes.moe/Mitsudomoe-OP1.webm" },
+                { "name": "Yume-iro no Koi", "url": "https://v.animethemes.moe/Mitsudomoe-ED1.webm" }
+            ],
+            "comments": "Yume-iro no Koi (Hikigatari): uninteresting visuals"
         },
         "touhai_densetsu_akagi_yami_ni_maiorita_tensai": {
             "name": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai (Akagi)",
             "themes": [
-                { "name": "Nantoka Nare", "url": "https://v.animethemes.moe/Akagi-OP1.webm" }
+                { "name": "Akagi", "url": "https://v.animethemes.moe/Akagi-ED1.webm" },
+                { "name": "Nantoka Nare", "url": "https://v.animethemes.moe/Akagi-OP1.webm" },
+                { "name": "S.T.S.", "url": "https://v.animethemes.moe/Akagi-ED2.webm" }
             ]
         },
         "princess_nine_kisaragi_joshikou_yakyuubu": {
-            "name": "Princess Nine: Kisaragi Joshikou Yakyuubu",
+            "name": "Princess Nine: Kisaragi Joshikou Yakyuubu (Princess Nine)",
             "themes": []
         },
         "hikaru_no_go": {
             "name": "Hikaru no Go",
             "themes": [
-                { "name": "Get Over", "url": "https://v.animethemes.moe/HikaruNoGo-OP1.webm" }
-            ]
+                { "name": "Bokura no Bouken", "url": "https://v.animethemes.moe/HikaruNoGo-ED1.webm" },
+                { "name": "Days", "url": "https://v.animethemes.moe/HikaruNoGo-ED4.webm" },
+                { "name": "Fantasy", "url": "https://v.animethemes.moe/HikaruNoGo-OP3.webm" },
+                { "name": "Get Over", "url": "https://v.animethemes.moe/HikaruNoGo-OP1.webm" },
+                { "name": "Hitomi no Chikara", "url": "https://v.animethemes.moe/HikaruNoGo-ED2.webm" },
+                { "name": "I'll Be the One", "url": "https://v.animethemes.moe/HikaruNoGo-OP2.webm" },
+                { "name": "Music is My Thing", "url": "https://v.animethemes.moe/HikaruNoGo-ED5.webm" },
+                { "name": "Sincerely ~ever dream~", "url": "https://v.animethemes.moe/HikaruNoGo-ED3.webm" }
+            ],
+            "comments": "Get Over ~Special Mix~: exceeds length"
         },
         "eyeshield_21": {
             "name": "Eyeshield 21",
             "themes": [
-                { "name": "Breakthrough", "url": "https://v.animethemes.moe/Eyeshield21-OP1.webm" }
+                { "name": "A day dreaming...", "url": "https://v.animethemes.moe/Eyeshield21-ED5.webm" },
+                { "name": "BE FREE", "url": "https://v.animethemes.moe/Eyeshield21-ED1.webm" },
+                { "name": "Blaze Away", "url": "https://v.animethemes.moe/Eyeshield21-ED2.webm" },
+                { "name": "BLAZE LINE", "url": "https://v.animethemes.moe/Eyeshield21-OP4.webm" },
+                { "name": "Breakthrough", "url": "https://v.animethemes.moe/Eyeshield21-OP1.webm" },
+                { "name": "Dang Dang", "url": "https://v.animethemes.moe/Eyeshield21-OP3.webm" },
+                { "name": "Flower", "url": "https://v.animethemes.moe/Eyeshield21-ED6.webm" },
+                { "name": "Goal", "url": "https://v.animethemes.moe/Eyeshield21-ED3.webm" },
+                { "name": "Honoo no Runningback", "url": "https://v.animethemes.moe/Eyeshield21-OP5.webm" },
+                { "name": "Innocence", "url": "https://v.animethemes.moe/Eyeshield21-OP2.webm" },
+                { "name": "Run to Win", "url": "https://v.animethemes.moe/Eyeshield21-ED4.webm" },
+                { "name": "Song of Power", "url": "https://v.animethemes.moe/Eyeshield21-ED7.webm" }
             ]
         },
         "bishoujo_senshi_sailor_moon": {
