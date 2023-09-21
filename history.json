@@ -622,6 +622,23 @@
             "Touhou Presentation Night": {
                 "kkhta"
             }
+        },
+        "Fall 2023": {
+            "Rotating Series Night": [
+                "ghost_in_the_shell"
+            ],
+            "Seasonal Sampler (Summer 2023)": [
+                "undead_girl_murder_farce",
+                "watashi_no_shiawase_na_kekkon",
+                "zom_100_zombie_ni_naru_made_ni_shitai_100_no_koto",
+                "jidou_hanbaiki_ni_umarekawatta_ore_wa_meikyuu_wo_samayou"
+            ],
+            "Continuing Series Night": [
+                "baccano",
+                "chuunibyou_demo_koi_ga_shitai",
+                "vivy_fluorite_eyes_song",
+                "gekkan_shoujo_nozaki_kun"
+            ]
         }
     },
     "shows": {
@@ -1064,9 +1081,75 @@
             ]
         },
         "bishoujo_senshi_sailor_moon": {
-            "name": "Bishoujo Senshi Sailor Moon (Saikor Moon)",
+            "name": "Bishoujo Senshi Sailor Moon (Sailor Moon)",
             "themes": [
-                { "name": "Moonlight Densetsu", "url": "https://v.animethemes.moe/SailorMoon-OP1.webm" }
+                { "name": "Moonlight Densetsu", "url": "https://v.animethemes.moe/SailorMoon-OP1.webm" },
+                { "name": "Moonlight Densetsu", "url": "https://v.animethemes.moe/SailorMoon-OP1v2.webm" }
+            ],
+            "comments": "Heart Moving: uninteresting visuals",
+            "comments": "Hottokenai yo: uninteresting visuals",
+            "comments": "Maboroshi no Ginzuishou~Silver Crystal: uninteresting visuals",
+            "comments": "Princess Moon: uninteresting visuals",
+            "comments": "Tsuki ni Kawatte Oshioki yo: uninteresting visuals",
+            "comments": "YOU'RE JUST MY LOVE: uninteresting visuals",
+            "comments": "Yumemiru dake ja Dame: uninteresting visuals"
+        },
+        "ghost_in_the_shell": {
+            "name": "Koukaku Kidoutai (Ghost in the Shell)",
+            "themes": [
+                
+            ],
+            "comments": "Making of a Cyborg: exceeds length",
+            "comments": "Reincarnation: exceeds length"
+        },
+        "undead_girl_murder_farce": {
+            "name": "Undead Girl Murder Farce (Undead Murder Farce)",
+            "themes": [
+                { "name": "Crack - Crack - Crackle", "url": "https://v.animethemes.moe/UndeadGirl-OP1.webm" },
+                { "name": "reversal", "url": "https://v.animethemes.moe/UndeadGirl-ED1.webm" },
+                { "name": "reversal", "url": "https://v.animethemes.moe/UndeadGirl-ED1v2.webm" }
+            ]
+        },
+        "watashi_no_shiawase_na_kekkon": {
+            "name": "Watashi no Shiawase na Kekkon (My Happy Marriage)",
+            "themes": [
+                { "name": "Anata no Soba ni.", "url": "https://v.animethemes.moe/WatashiNoShiawase-OP1.webm" },
+                { "name": "Vita Philosophica", "url": "https://v.animethemes.moe/WatashiNoShiawase-ED1.webm" }
+            ]
+        },
+        "zom_100_zombie_ni_naru_made_ni_shitai_100_no_koto": {
+            "name": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto (Zom 100: Bucket List of the Dead)",
+            "themes": [
+                { "name": "Song of the Dead", "url": "https://v.animethemes.moe/Zom100-OP1.webm" },
+                { "name": "Happiness of the Dead", "url": "https://v.animethemes.moe/Zom100-ED1.webm" },
+                { "name": "Happiness of the Dead", "url": "https://v.animethemes.moe/Zom100-ED1v2.webm" }
+            ]
+        },
+        "jidou_hanbaiki_ni_umarekawatta_ore_wa_meikyuu_wo_samayou": {
+            "name": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou (Reborn as a Vending Machine, I Now Wander the Dungeon)",
+            "themes": [
+                { "name": "Fanfare", "url": "https://v.animethemes.moe/Jihanki-OP1.webm" }
+            ],
+            "comments": "Itsumo no Soup: uninteresting visuals"
+        },
+        "chuunibyou_demo_koi_ga_shitai": {
+            "name": "Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions!)",
+            "themes": [
+                { "name": "Sparkling Daydream", "url": "https://v.animethemes.moe/Chuunibyou-OP1.webm" },
+                { "name": "INSIDE IDENTITY", "url": "https://v.animethemes.moe/Chuunibyou-ED1.webm" }
+            ]
+        },
+        "gekkan_shoujo_nozaki_kun": {
+            "name": "Gekkan Shoujo Nozaki-kun (Monthly Girls' Nozaki-kun)",
+            "themes": [
+                { "name": "Kimi ja Nakya Dame Mitai", "url": "https://v.animethemes.moe/NozakiKun-OP1.webm" },
+                { "name": "Ura Omote Fortune", "url": "https://v.animethemes.moe/NozakiKun-ED1.webm" }
+            ]
+        },
+        "vivy_fluorite_eyes_song": {
+            "name": "Vivy: Fluorite Eye's Song (Vivy -Fluorite Eye's Song-)",
+            "themes": [
+                
             ]
         },
         "cardcaptor_sakura": {
@@ -1579,10 +1662,6 @@
             "themes": [
                 { "name": "Jaja Uma ni Sasenai de", "url": "https://v.animethemes.moe/Ranma-OP1.webm" }
             ]
-        },
-        "ghost_in_the_shell": {
-            "name": "Ghost in the Shell",
-            "themes": []
         },
         "xxxholic": {
             "name": "xxxHOLiC",
@@ -2889,7 +2968,7 @@
             "themes": []
         },
         "kkhta": {
-            "name": "Koishi Komeiji's Heart-Throbbing Adventure",
+            "name": "Komeiji Koishi no Doki Doki Daibouken (Koishi Komeiji's Heart-Throbbing Adventure)",
             "themes": [
                 { "name": "Opening Theme", "url": "/public/themes/kkhta.webm" }
             ]
