@@ -490,6 +490,10 @@
                 "death_parade",
                 "kaiba",
                 "baccano"
+            ],
+            "Sports Night": [
+                "keijo",
+                "haikyuu"
             ]
         },
         "Fall 2021": {
@@ -2747,6 +2751,10 @@
             "themes": [
                 { "name": "Dive in the Sky", "url": "https://v.animethemes.moe/Planetes-OP1.webm" }
             ]
+        },
+        "keijo": {
+            "name": "Keijo!!!!!!!!",
+            "themes": []
         },
         "haikyuu": {
             "name": "Haikyuu!!",
