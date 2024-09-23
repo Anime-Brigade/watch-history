@@ -489,7 +489,8 @@
                 "new_game",
                 "death_parade",
                 "kaiba",
-                "baccano"
+                "baccano",
+                "baccano_specials"
             ],
             "Sports Night": [
                 "keijo",
@@ -591,27 +592,33 @@
                 "serial_experiments_lain",
                 "mahou_shoujo_madokamagica",
                 "paripi_koumei",
-                "yofukashi_no_uta",
                 "chainsaw_man"
+            ],
+            "Continuing Series Night (CANCELED)": [
+                "yofukashi_no_uta"
             ]
         },
         "Spring 2023": {
-            "Rotating Series Night": [],
+            "Rotating Series Night": [
+                "mahou_shoujo_madokamagica_movie_3_hangyaku_no_monogatari",
+                "suzumiya_haruhi_no_yuuutsu",
+                "ninja_batman",
+                "genshiken",
+                "inu-ou",
+                "gaikotsu_shotenin_honda_san",
+                "hidamari_sketch"
+            ],
             "Seasonal Sampler (Winter 2023)": [
                 "trigun_stampede",
                 "buddy_daddies",
                 "hikari_no_ou",
-                "tensei_oujo_to_tensai_reijou_no_mahou_kakumei",
-                "mahou_shoujo_madokamagica_movie_3_hangyaku_no_monogatari",
-                "suzumiya_haruhi_no_yuuutsu",
-                "ninja_batman",
-                "genshiken"
+                "tensei_oujo_to_tensai_reijou_no_mahou_kakumei"
             ],
-            "Continuing Series Night": [
-                "black_lagoon",
-                "shoujokageki_revue_starlight",
-                "houseki_no_kuni",
-                "grand_blue"
+            "Seasonal Sampler (Spring 2023)": [
+                "jigokuraku",
+                "tengoku_daimakyou",
+                "kimi_wa_houkago_insomnia",
+                "skip_to_loafer"
             ],
             "Lunar New Year Night": [
                 "xiao_lu_he_xiao_lan",
@@ -623,13 +630,41 @@
                 "baki",
                 "megalo_box"
             ],
-            "Touhou Presentation Night": {
+            "Gabe Night": [
+                "initial_d"
+            ],
+            "Scavenger Hunt Winner's Pick": [
+                "imouto_sae_ireba_ii",
+                "cardcaptor_sakura"
+            ],
+            "Ghibli Night": [
+                "mononoke_hime"
+            ],
+            "Touhou Presentation Night": [
                 "kkhta"
-            }
+            ],
+            "Continuing Series Night": [
+                "black_lagoon",
+                "shoujokageki_revue_starlight",
+                "houseki_no_kuni",
+                "grand_blue"
+            ]
         },
         "Fall 2023": {
-            "Rotating Series Night": [
-                "ghost_in_the_shell"
+            "Movie Night": [
+                "ghost_in_the_shell",
+                "howl_no_ugoku_shiro",
+                "stranger_mukou_hadan",
+                "kimi_to_nami_ni_noretara"
+            ],
+            "Show of the Week": [
+                "gakkou_gurashi",
+                "chihayafuru",
+                "ousama_ranking"
+            ],
+            "Release Sample": [
+                "sousou_no_frieren",
+                "kusuriya_no_hitorigoto"
             ],
             "Seasonal Sampler (Summer 2023)": [
                 "undead_girl_murder_farce",
@@ -637,11 +672,64 @@
                 "zom_100_zombie_ni_naru_made_ni_shitai_100_no_koto",
                 "jidou_hanbaiki_ni_umarekawatta_ore_wa_meikyuu_wo_samayou"
             ],
-            "Continuing Series Night": [
+            "Seasonal Sampler (Fall 2023)": [
+                "undead_unluck",
+                "kimi_no_koto_ga_daidaidaidaidaisuki_na_100_nin_no_kanojo",
+                "overtake",
+                "atarashii_joushi_wa_do_tennen"
+            ],
+            "Shark Tank Winner": [
+                "kidou_senshi_gundam_thunderbolt_december_sky"
+            ],
+            "Weekly Shows Night": [
                 "baccano",
                 "chuunibyou_demo_koi_ga_shitai",
                 "vivy_fluorite_eyes_song",
                 "gekkan_shoujo_nozaki_kun"
+            ]
+        },
+        "Spring 2024": {
+            "Last Semester Wrap-up": [
+                "baccano_specials"
+            ],
+            "Movie Night": [
+                "majo_no_takkyuubin",
+                "interstella5555"
+            ],
+            "Ken Night": [
+                "drifters"
+            ],
+            "Jackson Night": [
+                "choujikuu_yousai_macross_ai_oboete_imasuka"
+            ],
+            "Scott Night": [
+                "naruto",
+                "naruto_shippuden"
+            ],
+            "Scavenger Hunt Winner's Pick": [
+                "pui_pui_molcar_driving_school",
+                "blue_archive_the_animation"
+            ],
+            "Seasonal Sampler (Winter 2024)": [
+                "kaiju_8_gou",
+                "bartender_kami_no_glass",
+                "ookami_to_koushinryou_merchant_meets_the_wise_wolf",
+                "girls_band_cry"
+            ],
+            "Shark Tank Winner": [
+                "ginmaku_hetalia_axis_powers_paint_it_white"
+            ],
+            "Show of the Week": [
+                "shouwa_genroku_rakugo_shinjuu"
+            ],
+            "Weekly Shows Night": [
+                "shiguang_dailiren",
+                "ping_pong_the_animation",
+                "akudama_drive",
+                "jojo_no_kimyou_na_bouken"
+            ],
+            "Weekly Shows Night (CANCELED)": [
+                "mousou_dairinin"
             ]
         }
     },
@@ -2891,8 +2979,8 @@
         "3_gatsu_no_lion": {
             "name": "3-gatsu no Lion",
             "themes": [
-                { "name": "", "url": "https://animethemes.moe/video/SangatsuNoLion-OP1.webm" },
-                { "name": "", "url": "https://animethemes.moe/video/SangatsuNoLion-OP2.webm" }
+                { "name": "Answer", "url": "https://animethemes.moe/video/SangatsuNoLion-OP1.webm" },
+                { "name": "Sayonara Bystander", "url": "https://animethemes.moe/video/SangatsuNoLion-OP2.webm" }
             ]
         },
         "gunnm": {
@@ -2980,12 +3068,206 @@
             "themes": [
                 { "name": "Opening Theme", "url": "/public/themes/kkhta.webm" }
             ]
+        },
+        "sousou_no_frieren": {
+            "name": "Sousou no Frieren",
+            "themes": [
+                { "name": "Yuusha", "url": "https://v.animethemes.moe/SousouNoFrieren-OP1-NCBD1080.webm" },
+                { "name": "Haru", "url": "https://v.animethemes.moe/SousouNoFrieren-OP2.webm" }
+            ]
+        },
+        "undead_unluck": {
+            "name": "Undead Unluck",
+            "themes": [
+                { "name": "01", "url": "https://v.animethemes.moe/UndeadUnluck-OP1-NCBD1080.webm" },
+                { "name": "Love Call", "url": "https://v.animethemes.moe/UndeadUnluck-OP2.webm" }
+            ]
+        },
+        "kimi_no_koto_ga_daidaidaidaidaisuki_na_100_nin_no_kanojo" : {
+            "name": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+            "themes": [
+                { "name": "Daidaidaidaidaisuki na Kimi e♡", "url": "https://v.animethemes.moe/Hyakkano-OP1.webm" }
+            ]
+        },
+        "overtake": {
+            "name": "Overtake!",
+            "themes": [
+                { "name": "Tailwind", "url": "https://v.animethemes.moe/Overtake-OP1.webm" }
+            ]
+        },
+        "atarashii_joushi_wa_do_tennen": {
+            "name": "Atarashii Joushi wa Do Tennen",
+            "themes": [
+                { "name": "Planetaria", "url": "https://v.animethemes.moe/AtarashiiJoushiWaDoTennen-OP1.webm" }
+            ]
+        },
+        "kusuriya_no_hitorigoto": {
+            "name": "Kusuriya no Hitorigoto",
+            "themes": [
+                { "name": "Hana ni Natte", "url": "https://v.animethemes.moe/KusuriyaNoHitorigoto-OP1-NCBD1080.webm" },
+                { "name": "Ambivalent", "url": "https://v.animethemes.moe/KusuriyaNoHitorigoto-OP2.webm" }
+            ]
+        },
+        "chihayafuru": {
+            "name": "Chihayafuru",
+            "themes": [
+                { "name": "YOUTHFUL", "url": "https://v.animethemes.moe/Chihayafuru-OP1.webm" }
+            ]
+        },
+        "ousama_ranking": {
+            "name": "Ousama Ranking",
+            "themes": [
+                { "name": "BOY", "url": "https://v.animethemes.moe/OusamaRanking-OP1-NCBD1080.webm" },
+                { "name": "Hadaka no Yuusha", "url": "https://v.animethemes.moe/OusamaRanking-OP2.webm" }
+            ]
+        },
+        "kimi_to_nami_ni_noretara": {
+            "name": "Kimi to, Nami ni Noretara",
+            "themes": []
+        },
+        "kidou_senshi_gundam_thunderbolt_december_sky": {
+            "name": "Kidou Senshi Gundam Thunderbolt: December Sky",
+            "themes": []
+        },
+        "baccano_specials": {
+            "name": "Baccano! Specials",
+            "themes": []
+        },
+        "majo_no_takkyuubin": {
+            "name": "Majo no Takkyuubin (Kiki's Delivery Service)",
+            "themes": []
+        },
+        "akudama_drive": {
+            "name": "Akudama Drive",
+            "themes": [
+                { "name": "STEAL!!", "url": "https://v.animethemes.moe/AkudamaDrive-OP1-NCBD1080.webm" }
+            ]
+        },
+        "jojo_no_kimyou_na_bouken": {
+            "name": "JoJo no Kimyou na Bouken",
+            "themes": [
+                { "name": "JoJo ~Sono Chi no Sadame~", "url": "https://v.animethemes.moe/JojoNoKimyouNaBouken-OP1.webm" },
+                { "name": "BLOODY STREAM", "url": "https://v.animethemes.moe/JojoNoKimyouNaBouken-OP2.webm" },
+                { "name": "ROUNDABOUT", "url": "https://v.animethemes.moe/JojoNoKimyouNaBouken-ED1.webm" }
+            ]
+        },
+        "drifters": {
+            "name": "Drifters",
+            "themes": [
+                { "name": "Gospel Of The Throttle 狂奔REMIX ver.", "url": "https://v.animethemes.moe/Drifters-OP1-NCBD1080.webm" }
+            ]
+        },
+        "interstella5555": {
+            "name": "Interstella5555",
+            "themes": []
+        },
+        "choujikuu_yousai_macross_ai_oboete_imasuka": {
+            "name": "Choujikuu Yousai Macross: Ai Oboete Imasuka (Do You Remember Love)",
+            "themes": []
+        },
+        "naruto": {
+            "name": "Naruto",
+            "themes": [
+                { "name": "R★O★C★K★S", "url": "https://v.animethemes.moe/Naruto-OP1.webm" }
+            ],
+            "comments": "I'm sorry Scott but I don't want every Naruto opening on the themes page"
+        },
+        "naruto_shippuden": {
+            "name": "Naruto: Shippuden",
+            "themes": [
+                { "name": "Hero's Come Back", "url": "https://v.animethemes.moe/NarutoShippuuden-OP1.webm" }
+            ],
+            "comments": "Ditto above"
+        },
+        "pui_pui_molcar_driving_school": {
+            "name": "Pui Pui Molcar: Driving School",
+            "themes": []
+        },
+        "blue_archive_the_animation": {
+            "name": "Blue Archive the Animation",
+            "themes": [
+                { "name": "Seishun no Archive", "url": "https://v.animethemes.moe/BlueArchive-OP1.webm" }
+            ]
+        },
+        "kaijuu_8_gou": {
+            "name": "Kaijuu 8-gou",
+            "themes": [
+                { "name": "Abyss", "url": "https://v.animethemes.moe/Kaijuu8Gou-OP1.webm" }
+            ]
+        },
+        "bartender_kami_no_glass" : {
+            "name": "Bartender: Kami no Glass",
+            "themes": [
+                { "name": "Stardust Memory", "url": "https://v.animethemes.moe/BartenderKamiNoGlass-OP1.webm" }
+            ]
+        },
+        "ookami_to_koushinryou_merchant_meets_the_wise_wolf": {
+            "name": "Ookami to Koushinryou: Merchant Meets the Wise Wolf (Spice and Wolf)",
+            "themes": [
+                { "name": "Tabi no Yukue", "url": "https://v.animethemes.moe/OokamiToKoushinryou2024-OP1.webm" },
+                { "name": "Sign", "url": "https://v.animethemes.moe/OokamiToKoushinryou2024-OP2.webm" }
+            ]
+        },
+        "girls_band_cry": {
+            "name": "Girls Band Cry",
+            "themes": [
+                { "name": "Zattou, Bokura no Machi", "url": "https://v.animethemes.moe/GirlsBandCry-OP1-NCBD1080.webm" }
+            ]
+        },
+        "initial_d": {
+            "name": "Initial D",
+            "themes": [
+                { "name": "Around the World", "url": "https://v.animethemes.moe/InitialDFirstStage-OP1.webm" },
+                { "name": "Break in 2 the Nite", "url": "https://v.animethemes.moe/InitialDFirstStage-OP2.webm" },
+                { "name": "Rage Your Dream", "url": "https://v.animethemes.moe/InitialDFirstStage-ED1.webm" }
+            ]
+        },
+        "imouto_sae_ireba_ii": {
+            "name": "Imouto sae Ireba Ii. (A Sister's All You Need)",
+            "themes": [
+                { "name": "Ashita no Kimi sae Ireba Ii.", "url": "https://v.animethemes.moe/ImoutoSae-OP1-NCBD1080.webm" }
+            ]
+        },
+        "jigokuraku": {
+            "name": "Jigokuraku (Hell's Paradise)",
+            "themes": [
+                { "name": "W●RK", "url": "https://v.animethemes.moe/Jigokuraku-OP1.webm" }
+            ]
+        },
+        "tengoku_daimakyou": {
+            "name": "Tengoku Daimakyou",
+            "themes": [
+                { "name": "innocent arrogance", "url": "https://v.animethemes.moe/TengokuDaimakyou-OP1-NCBD1080.webm" }
+            ]
+        },
+        "kimi_wa_houkago_insomnia": {
+            "name": "Kimi wa Houkago Insomnia (Insomniacs After School)",
+            "themes": [
+                { "name": "Itsu Aetara", "url": "https://v.animethemes.moe/Kimisomu-OP1-NCBD1080.webm" }
+            ]
+        },
+        "skip_to_loafer": {
+            "name": "Skip to Loafer",
+            "themes": [
+                { "name": "Mellow", "url": "https://v.animethemes.moe/SkipToLoafer-OP1.webm" }
+            ]
+        },
+        "inu-ou": {
+            "name": "Inu-Ou",
+            "themes": []
+        },
+        "gaikotsu_shotenin_honda_san": {
+            "name": "Gaikotsu Shotenin Honda-san",
+            "themes": [
+                { "name": "ISBN ~Inner Sound & Book's Narrative~", "url": "https://v.animethemes.moe/GaikotsuShoteninHondaSan-OP1.webm" }
+            ]
+        },
+        "hidamari_sketch": {
+            "name": "Hidamari Sketch",
+            "themes": [
+                { "name": "Sketch Switch", "url": "https://v.animethemes.moe/HidamariSketch-OP1.webm" }
+            ]
         }
     },
-    "disabled": [
-        "black_lagoon",
-        "shoujokageki_revue_starlight",
-        "houseki_no_kuni",
-        "grand_blue"
-    ]
+    "disabled": []
 }
