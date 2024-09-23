@@ -952,8 +952,8 @@
             "themes": [
                 { "name": "Tori no Uta", "url": "https://v.animethemes.moe/Air-OP1.webm" }
             ],
-            "comments": "Aozora: exceeds length",
-            "comments": "Farewell Song: uninteresting visuals"
+            "comments1": "Aozora: exceeds length",
+            "comments2": "Farewell Song: uninteresting visuals"
         },
         "mahou_shoujo_lyrical_nanoha": {
             "name": "Mahou Shoujo Lyrical Nanoha (Magical Girl Lyrical Nanoha)",
@@ -1191,8 +1191,8 @@
             "themes": [
                 
             ],
-            "comments": "Making of a Cyborg: exceeds length",
-            "comments": "Reincarnation: exceeds length"
+            "comments1": "Making of a Cyborg: exceeds length",
+            "comments2": "Reincarnation: exceeds length"
         },
         "undead_girl_murder_farce": {
             "name": "Undead Girl Murder Farce (Undead Murder Farce)",
@@ -2479,12 +2479,6 @@
             "name": "Kaiba",
             "themes": [
                 { "name": "Never", "url": "https://v.animethemes.moe/Kaiba-OP1.webm" }
-            ]
-        },
-        "azumanga_daioh": {
-            "name": "Azumanga Daioh",
-            "themes": [
-                { "name": "Soramimi Cake", "url": "https://v.animethemes.moe/AzumangaDaioh-OP1.webm" }
             ]
         },
         "star_wars_visions": {
