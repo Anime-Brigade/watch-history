@@ -1470,7 +1470,7 @@
         "katanagatari": {
             "name": "Katanagatari",
             "themes": [
-                { "name": "Meiya Kadenrou", "url": "https://staging.animethemes.moe/video/Katanagatari-OP1.webm" }
+                { "name": "Meiya Kadenrou", "url": "https://v.animethemes.moe/Katanagatari-OP1.webm" }
             ]
         },
         "ano_hi_mita_hana_no_namae_wo_bokutachi_wa_mada_shiranai": {
@@ -1511,7 +1511,7 @@
         "cowboy_bebop_tengoku_no_tobira": {
             "name": "Cowboy Bebop: Tengoku no Tobira",
             "themes": [
-                { "name": "Ask DNA", "url": "https://staging.animethemes.moe/video/CowboyBebopMovie-OP1.webm" }
+                { "name": "Ask DNA", "url": "https://v.animethemes.moe/CowboyBebopMovie-OP1.webm" }
             ]
         },
         "suiren_no_hito": {
@@ -2926,7 +2926,7 @@
         "made_in_abyss": {
             "name": "Made in Abyss",
             "themes": [
-                { "name": "Deep in Abyss", "url": "https://staging.animethemes.moe/video/MadeInAbyss-OP2-NCBD1080.webm" }
+                { "name": "Deep in Abyss", "url": "https://v.animethemes.moe/MadeInAbyss-OP2-NCBD1080.webm" }
             ]
         },
         "recreators": {
