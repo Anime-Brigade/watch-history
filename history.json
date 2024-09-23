@@ -83,7 +83,7 @@
                 "ichiban_ushiro_no_daimaou",
                 "dennou_coil",
                 "shinryaku_ika_musume",
-                "azumanga_daioh",
+                "azumanga_daiou",
                 "great_teacher_onizuka",
                 "gyakkyou_burai_kaiji_ultimate_survivor",
                 "darker_than_black_kuro_no_keiyakusha",
@@ -419,7 +419,7 @@
                 "mayoiga",
                 "yuri_kuma_arashi",
                 "paprika",
-                "azumanga_daioh"
+                "azumanga_daiou"
             ],
             "Continuing Series Night": [
                 "dororo",
@@ -500,7 +500,7 @@
         "Fall 2021": {
             "Rotating Series Night": [
                 "3_gatsu_no_lion",
-                "azumanga_daioh",
+                "azumanga_daiou",
                 "star_wars_visions",
                 "subete_ga_f_ni_naru_the_perfect_insider",
                 "tenkuu_no_shiro_laputa",
@@ -1443,7 +1443,7 @@
                 { "name": "Shinryaku no Susume☆", "url": "https://v.animethemes.moe/ShinryakuIkaMusume-OP1.webm" }
             ]
         },
-        "azumanga_daioh": {
+        "azumanga_daiou": {
             "name": "Azumanga Daioh",
             "themes": [
                 { "name": "Soramimi Cake", "url": "https://animethemes.moe/video/AzumangaDaioh-OP1.webm" }
