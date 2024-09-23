@@ -782,16 +782,16 @@
                 { "name": "PHOENIX PRAYER", "url": "https://files.catbox.moe/ocg7or.webm" },
                 { "name": "will-ill", "url": "https://files.catbox.moe/egj275.webm" }
             ],
-            "comments": "All Hail Britannia!!!: uninteresting song, uninteresting visuals",
-            "comments": "Alone: uninteresting song, uninteresting visuals",
-            "comments": "calling: uninteresting visuals",
-            "comments": "Innocent Days: uninteresting song, uninteresting visuals",
-            "comments": "Masquerade: uninteresting song, uninteresting visuals",
-            "comments": "Mosaic Kakera: uninteresting visuals",
-            "comments": "Picaresque: uninteresting visuals",
-            "comments": "SAKURA BURST: uninteresting visuals",
-            "comments": "Stories: exceeds length, uninteresting song, uninteresting visuals",
-            "comments": "Yuukyou Seishunka: uninteresting visuals"
+            "comments01": "All Hail Britannia!!!: uninteresting song, uninteresting visuals",
+            "comments02": "Alone: uninteresting song, uninteresting visuals",
+            "comments03": "calling: uninteresting visuals",
+            "comments04": "Innocent Days: uninteresting song, uninteresting visuals",
+            "comments05": "Masquerade: uninteresting song, uninteresting visuals",
+            "comments06": "Mosaic Kakera: uninteresting visuals",
+            "comments07": "Picaresque: uninteresting visuals",
+            "comments08": "SAKURA BURST: uninteresting visuals",
+            "comments09": "Stories: exceeds length, uninteresting song, uninteresting visuals",
+            "comments10": "Yuukyou Seishunka: uninteresting visuals"
         },
         "code_geass_hangyaku_no_lelouch_r2": {
             "name": "Code Geass: Hangyaku no Lelouch R2 (Code Geass: Lelouch of the Rebellion R2)",
@@ -801,19 +801,19 @@
                 { "name": "Face2", "url": "https://files.catbox.moe/1tc7hx.webm" },
                 { "name": "WORLD END", "url": "https://v.animethemes.moe/CodeGeassR2-OP2v2.webm" }
             ],
-            "comments": "Boku wa, Tori ni Naru.: uninteresting song, uninteresting visuals",
-            "comments": "Continued Story: exceeds length, uninteresting song, uninteresting visuals",
-            "comments": "Daydream Believer: uninteresting visuals",
-            "comments": "Innocent Days: uninteresting song, uninteresting visuals",
-            "comments": "Masquerade: uninteresting song, uninteresting visuals",
-            "comments": "Mushoku Toumei: uninteresting song, uninteresting visuals",
-            "comments": "Nunnally: uninteresting song, uninteresting visuals",
-            "comments": "Shiawase Neiro: uninteresting visuals",
-            "comments": "Strange Girl: uninteresting song, uninteresting visuals",
-            "comments": "Waga Routashi Aku no Hana (v1): uninteresting visuals",
-            "comments": "Waga Routashi Aku no Hana (v2): uninteresting visuals",
-            "comments": "WORLD END (v1): redundant",
-            "comments": "Z.E.R.O.: uninteresting visuals"
+            "comments01": "Boku wa, Tori ni Naru.: uninteresting song, uninteresting visuals",
+            "comments02": "Continued Story: exceeds length, uninteresting song, uninteresting visuals",
+            "comments03": "Daydream Believer: uninteresting visuals",
+            "comments04": "Innocent Days: uninteresting song, uninteresting visuals",
+            "comments05": "Masquerade: uninteresting song, uninteresting visuals",
+            "comments06": "Mushoku Toumei: uninteresting song, uninteresting visuals",
+            "comments07": "Nunnally: uninteresting song, uninteresting visuals",
+            "comments08": "Shiawase Neiro: uninteresting visuals",
+            "comments09": "Strange Girl: uninteresting song, uninteresting visuals",
+            "comments10": "Waga Routashi Aku no Hana (v1): uninteresting visuals",
+            "comments11": "Waga Routashi Aku no Hana (v2): uninteresting visuals",
+            "comments12": "WORLD END (v1): redundant",
+            "comments13": "Z.E.R.O.: uninteresting visuals"
         },
         "kuroshitsuji": {
             "name": "Kuroshitsuji (Black Butler)",
@@ -855,11 +855,11 @@
                 { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1.webm" },
                 { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1v2.webm" }
             ],
-            "comments": "Gattai Nante Kuso Kurae!! (Gattai Sounyuukyoku Dai Ichi-ban C minor Allegro K2564): uninteresting visuals",
-            "comments": "happily ever after (v1): exceeds length, redundant, uninteresting visuals",
-            "comments": "'Libera me' from hell: uninteresting visuals",
-            "comments": "Nikopol: uninteresting visuals",
-            "comments": "Rap wa Otoko no Tamashii da! Muri o Tooshite Douri o Kettobasu! Ore-tachi Dai Gurren Dan no Theme o Mimi no Ana Kappojitte Yooku Kikiyagare!! (Short Start Edit): uninteresting visuals"
+            "comments1": "Gattai Nante Kuso Kurae!! (Gattai Sounyuukyoku Dai Ichi-ban C minor Allegro K2564): uninteresting visuals",
+            "comments2": "happily ever after (v1): exceeds length, redundant, uninteresting visuals",
+            "comments3": "'Libera me' from hell: uninteresting visuals",
+            "comments4": "Nikopol: uninteresting visuals",
+            "comments5": "Rap wa Otoko no Tamashii da! Muri o Tooshite Douri o Kettobasu! Ore-tachi Dai Gurren Dan no Theme o Mimi no Ana Kappojitte Yooku Kikiyagare!! (Short Start Edit): uninteresting visuals"
         },
         "sayonara_zetsubou_sensei": {
             "name": "Sayonara Zetsubou Sensei",
@@ -879,11 +879,11 @@
                 { "name": "Megumeru ~cuckool mix 2007~", "url": "https://v.animethemes.moe/Clannad-OP1.webm" },
                 { "name": "Dango Daikazoku", "url": "https://v.animethemes.moe/Clannad-ED1.webm" }
             ],
-            "comments": "Ana (v1): exceeds length",
-            "comments": "Ana (v2): uninteresting visuals",
-            "comments": "Kage Futatsu: uninteresting visuals",
-            "comments": "Kaze no Shoujo: uninteresting visuals",
-            "comments": "Over: exceeds length"
+            "comments1": "Ana (v1): exceeds length",
+            "comments2": "Ana (v2): uninteresting visuals",
+            "comments3": "Kage Futatsu: uninteresting visuals",
+            "comments4": "Kaze no Shoujo: uninteresting visuals",
+            "comments5": "Over: exceeds length"
         },
         "clannad_after_story": {
             "name": "Clannad: After Story",
@@ -895,13 +895,13 @@
                 { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1v3.webm" },
                 { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1v4.webm" }
             ],
-            "comments": "Ana (v1): exceeds length",
-            "comments": "Ana (v2): exceeds length",
-            "comments": "Chiisana Te no Hira: exceeds length",
-            "comments": "Dango Daikazoku: uninteresting song, uninteresting visuals",
-            "comments": "Komorebi: uninteresting song, uninteresting visuals",
-            "comments": "Sakura Jokyoku: uninteresting song, uninteresting visuals",
-            "comments": "Shoujo no Gensou: exceeds length"
+            "comments1": "Ana (v1): exceeds length",
+            "comments2": "Ana (v2): exceeds length",
+            "comments3": "Chiisana Te no Hira: exceeds length",
+            "comments4": "Dango Daikazoku: uninteresting song, uninteresting visuals",
+            "comments5": "Komorebi: uninteresting song, uninteresting visuals",
+            "comments6": "Sakura Jokyoku: uninteresting song, uninteresting visuals",
+            "comments7": "Shoujo no Gensou: exceeds length"
         },
         "sousei_no_aquarion": {
             "name": "Sousei no Aquarion (Aquarion)",
@@ -909,8 +909,8 @@
                 { "name": "Go Tight", "url": "https://v.animethemes.moe/SouseiNoAquarion-OP2.webm" },
                 { "name": "Sousei no Aquarion", "url": "https://v.animethemes.moe/SouseiNoAquarion-OP1.webm" }
             ],
-            "comments": "Omna Magni (v1): uninteresting song, uninteresting visuals",
-            "comments": "Omna Magni (v2): uninteresting song"
+            "comments1": "Omna Magni (v1): uninteresting song, uninteresting visuals",
+            "comments2": "Omna Magni (v2): uninteresting song"
         },
         "saki": {
             "name": "Saki",
@@ -920,18 +920,18 @@
                 { "name": "Netsuretsu Kangei Wonderland", "url": "https://v.animethemes.moe/Saki-ED1.webm" },
                 { "name": "Shikakui Uchuu de Matteru yo", "url": "https://v.animethemes.moe/Saki-ED3.webm" }
             ],
-            "comments": "Zankoku na Negai no Naka de (v1):uninteresting visuals",
-            "comments": "Zankoku na Negai no Naka de (v2):uninteresting visuals",
-            "comments": "Zankoku na Negai no Naka de (v3):uninteresting visuals"
+            "comments1": "Zankoku na Negai no Naka de (v1):uninteresting visuals",
+            "comments2": "Zankoku na Negai no Naka de (v2):uninteresting visuals",
+            "comments3": "Zankoku na Negai no Naka de (v3):uninteresting visuals"
         },
         "bokurano": {
             "name": "Bokurano (Bokurano: Ours)",
             "themes": [
                 { "name": "Uninstall", "url": "https://v.animethemes.moe/Bokurano-OP1.webm" }
             ],
-            "comments": "Little Bird: uninteresting song",
-            "comments": "Lost Innocent: exceeds length",
-            "comments": "Vermillion: uninteresting visuals"
+            "comments1": "Little Bird: uninteresting song",
+            "comments2": "Lost Innocent: exceeds length",
+            "comments3": "Vermillion: uninteresting visuals"
         },
         "asura_cryin": {
             "name": "Asura Cryin'",
@@ -960,8 +960,8 @@
             "themes": [
                 { "name": "Innocent Starter", "url": "https://v.animethemes.moe/Nanoha-OP1.webm" }
             ],
-            "comments": "Little Wish ~lyrical step~: uninteresting visuals",
-            "comments": "Take a shot: exceeds length"
+            "comments1": "Little Wish ~lyrical step~: uninteresting visuals",
+            "comments2": "Take a shot: exceeds length"
         },
         "heppoko_jikken_animation_excelsaga": {
             "name": "Heppoko Jikken Animation Excel♥Saga",
@@ -998,21 +998,21 @@
                 { "name": "Shikaidaa no Uta", "url": "https://v.animethemes.moe/LuckyStar-ED21.webm" },
                 { "name": "Shiraishi Medley", "url": "https://v.animethemes.moe/LuckyStar-ED22.webm" }
             ],
-            "comments": "Cha-La Head-Cha-La: uninteresting visuals",
-            "comments": "Chijou no Hoshi: uninteresting visuals",
-            "comments": "Doraemon no Uta: uninteresting visuals",
-            "comments": "God knows...: uninteresting song",
-            "comments": "Ike! Godman / Makenaide: uninteresting visuals",
-            "comments": "I'm Proud: uninteresting visuals",
-            "comments": "Koi no Minoru Densetsu: uninteresting song",
-            "comments": "Kogarashi ni Dakarete: uninteresting visuals",
-            "comments": "Kuchibiru Daydream: uninteresting visuals",
-            "comments": "Monkey Magic: uninteresting visuals",
-            "comments": "Sailor Fuku to Kikanjuu: uninteresting visuals",
-            "comments": "Shouri da! Akumaizer 3: uninteresting visuals",
-            "comments": "Sore ga, Ai Deshou: uninteresting visuals",
-            "comments": "Uchuu Tetsujin Kyoodain: uninteresting visuals",
-            "comments": "Valentine Kiss: uninteresting visuals"
+            "comments01": "Cha-La Head-Cha-La: uninteresting visuals",
+            "comments02": "Chijou no Hoshi: uninteresting visuals",
+            "comments03": "Doraemon no Uta: uninteresting visuals",
+            "comments04": "God knows...: uninteresting song",
+            "comments05": "Ike! Godman / Makenaide: uninteresting visuals",
+            "comments06": "I'm Proud: uninteresting visuals",
+            "comments07": "Koi no Minoru Densetsu: uninteresting song",
+            "comments08": "Kogarashi ni Dakarete: uninteresting visuals",
+            "comments09": "Kuchibiru Daydream: uninteresting visuals",
+            "comments10": "Monkey Magic: uninteresting visuals",
+            "comments11": "Sailor Fuku to Kikanjuu: uninteresting visuals",
+            "comments12": "Shouri da! Akumaizer 3: uninteresting visuals",
+            "comments13": "Sore ga, Ai Deshou: uninteresting visuals",
+            "comments14": "Uchuu Tetsujin Kyoodain: uninteresting visuals",
+            "comments15": "Valentine Kiss: uninteresting visuals"
         },
         "bokusatsu_tenshi_dokuro_chan": {
             "name": "Bokusatsu Tenshi Dokuro-chan (Bludgeoning Angel Dokuro-chan)",
@@ -1054,11 +1054,11 @@
                 { "name": "My Soul, Your Beats!", "url": "https://v.animethemes.moe/AngelBeats-OP1.webm" },
                 { "name": "My Soul, Your Beats!", "url": "https://v.animethemes.moe/AngelBeats-OP2.webm" }
             ],
-            "comments": "Brave Song: uninteresting visuals",
-            "comments": "Crow Song: exceeds length",
-            "comments": "Ichiban no Takaramono: exceeds length",
-            "comments": "Ichiban no Takaramono ~Yui final ver.~: exceeds length",
-            "comments": "Thousand Enemies: exceeds length"
+            "comments1": "Brave Song: uninteresting visuals",
+            "comments2": "Crow Song: exceeds length",
+            "comments3": "Ichiban no Takaramono: exceeds length",
+            "comments4": "Ichiban no Takaramono ~Yui final ver.~: exceeds length",
+            "comments5": "Thousand Enemies: exceeds length"
         },
         "the_big_o": {
             "name": "The Big O",
@@ -1074,17 +1074,17 @@
             "themes": [
                 { "name": "Best Friend", "url": "https://v.animethemes.moe/MichikoToHatchin-ED1.webm" }
             ],
-            "comments": "Ao seu lado: exceeds length",
-            "comments": "Calça de ginástica: uninteresting visuals",
-            "comments": "Desencanto: uninteresting visuals",
-            "comments": "Febre 1980: uninteresting visuals",
-            "comments": "Nada pode me parar agora: exceeds length",
-            "comments": "Papo Cafajeste: nsfw",
-            "comments": "Paraiso: nsfw",
-            "comments": "Posto de gasolina: uninteresting visuals",
-            "comments": "Prova de amor: exceeds length",
-            "comments": "Temporada das frutas: uninteresting visuals",
-            "comments": "Você sabe: uninteresting visuals"
+            "comments01": "Ao seu lado: exceeds length",
+            "comments02": "Calça de ginástica: uninteresting visuals",
+            "comments03": "Desencanto: uninteresting visuals",
+            "comments04": "Febre 1980: uninteresting visuals",
+            "comments05": "Nada pode me parar agora: exceeds length",
+            "comments06": "Papo Cafajeste: nsfw",
+            "comments07": "Paraiso: nsfw",
+            "comments08": "Posto de gasolina: uninteresting visuals",
+            "comments09": "Prova de amor: exceeds length",
+            "comments10": "Temporada das frutas: uninteresting visuals",
+            "comments11": "Você sabe: uninteresting visuals"
         },
         "minami_ke": {
             "name": "Minami-ke",
@@ -1101,12 +1101,12 @@
                 { "name": "Shiki no Uta", "url": "https://v.animethemes.moe/SamuraiChamploo-ED1-NCBD1080.webm" },
                 { "name": "Shiki no Uta", "url": "https://v.animethemes.moe/SamuraiChamploo-ED1v2.webm" }
             ],
-            "comments": "Hiji Zuru Style: uninteresting visuals",
-            "comments": "FLY [SMALL CIRCLE OF FRIENDS]: uninteresting song",
-            "comments": "Obokuri ~ Ee Umi: exceeds length",
-            "comments": "San Francisco: uninteresting song",
-            "comments": "Who's Theme: exceeds length",
-            "comments": "YOU: exceeds length"
+            "comments1": "Hiji Zuru Style: uninteresting visuals",
+            "comments2": "FLY [SMALL CIRCLE OF FRIENDS]: uninteresting song",
+            "comments3": "Obokuri ~ Ee Umi: exceeds length",
+            "comments4": "San Francisco: uninteresting song",
+            "comments5": "Who's Theme: exceeds length",
+            "comments6": "YOU: exceeds length"
         },
         "toradora": {
             "name": "Toradora!",
@@ -1115,11 +1115,11 @@
                 { "name": "silky heart", "url": "https://v.animethemes.moe/Toradora-OP2.webm" },
                 { "name": "Vanilla Salt", "url": "https://v.animethemes.moe/Toradora-ED1.webm" }
             ],
-            "comments": "Holy Night: uninteresting song",
-            "comments": "Orange (v1): uninteresting visuals",
-            "comments": "Orange (v2): uninteresting song",
-            "comments": "Orange (v3): uninteresting song",
-            "comments": "Orange (v4): uninteresting song"
+            "comments1": "Holy Night: uninteresting song",
+            "comments2": "Orange (v1): uninteresting visuals",
+            "comments3": "Orange (v2): uninteresting song",
+            "comments4": "Orange (v3): uninteresting song",
+            "comments5": "Orange (v4): uninteresting song"
         },
         "mitsudomoe": {
             "name": "Mitsudomoe",
@@ -1178,13 +1178,13 @@
                 { "name": "Moonlight Densetsu", "url": "https://v.animethemes.moe/SailorMoon-OP1.webm" },
                 { "name": "Moonlight Densetsu", "url": "https://v.animethemes.moe/SailorMoon-OP1v2.webm" }
             ],
-            "comments": "Heart Moving: uninteresting visuals",
-            "comments": "Hottokenai yo: uninteresting visuals",
-            "comments": "Maboroshi no Ginzuishou~Silver Crystal: uninteresting visuals",
-            "comments": "Princess Moon: uninteresting visuals",
-            "comments": "Tsuki ni Kawatte Oshioki yo: uninteresting visuals",
-            "comments": "YOU'RE JUST MY LOVE: uninteresting visuals",
-            "comments": "Yumemiru dake ja Dame: uninteresting visuals"
+            "comments1": "Heart Moving: uninteresting visuals",
+            "comments2": "Hottokenai yo: uninteresting visuals",
+            "comments3": "Maboroshi no Ginzuishou~Silver Crystal: uninteresting visuals",
+            "comments4": "Princess Moon: uninteresting visuals",
+            "comments5": "Tsuki ni Kawatte Oshioki yo: uninteresting visuals",
+            "comments6": "YOU'RE JUST MY LOVE: uninteresting visuals",
+            "comments7": "Yumemiru dake ja Dame: uninteresting visuals"
         },
         "ghost_in_the_shell": {
             "name": "Koukaku Kidoutai (Ghost in the Shell)",
