@@ -2747,8 +2747,10 @@
         "rollinggirls": {
             "name": "Rolling☆Girls",
             "themes": [
-                { "name": "Hito ni Yasashiku", "url": "https://v.animethemes.moe/RollingGirls-OP1.webm" }
-            ]
+                { "name": "Hito ni Yasashiku", "url": "https://v.animethemes.moe/RollingGirls-OP1.webm" },
+                { "name": "LMAO GET BLUE HEARTSED", "url": "/public/themes/RollingGirlsXTheBlueHearts.webm" }
+            ],
+            "comments": "the god pull"
         },
         "hataraku_maou_sama": {
             "name": "Hataraku Maou-sama! (The Devil is a Part-Timer!)",
