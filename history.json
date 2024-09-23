@@ -1050,7 +1050,6 @@
             "name": "Angel Beats!",
             "themes": [
                 { "name": "Alchemy", "url": "https://files.catbox.moe/ubinei.webm" },
-                { "name": "My song", "url": "https://v.animethemes.moe/AngelBeats-ED3.webm" },
                 { "name": "My Soul, Your Beats!", "url": "https://v.animethemes.moe/AngelBeats-OP1.webm" },
                 { "name": "My Soul, Your Beats!", "url": "https://v.animethemes.moe/AngelBeats-OP2.webm" }
             ],
@@ -1058,7 +1057,8 @@
             "comments2": "Crow Song: exceeds length",
             "comments3": "Ichiban no Takaramono: exceeds length",
             "comments4": "Ichiban no Takaramono ~Yui final ver.~: exceeds length",
-            "comments5": "Thousand Enemies: exceeds length"
+            "comments5": "Thousand Enemies: exceeds length",
+            "comments6": "ep13 Ichiban no Takaramono: SPOILER"
         },
         "the_big_o": {
             "name": "The Big O",
