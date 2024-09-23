@@ -596,6 +596,12 @@
             ],
             "Continuing Series Night (CANCELED)": [
                 "yofukashi_no_uta"
+            ],
+            "After Hours": [
+                "hanoka",
+                "fate_kaleid_liner_prisma_illya",
+                "gakkou no kaidan",
+                "abunai_sisters_koko_and_mika"
             ]
         },
         "Spring 2023": {
@@ -651,7 +657,8 @@
             ],
             "After Hours": [
                 "panty_and_stocking_with_garterbetlt",
-                "gdgd_fairies"
+                "gdgd_fairies",
+                "gdgd_fairies_movie"
             ]
         },
         "Fall 2023": {
@@ -754,6 +761,10 @@
             ],
             "Weekly Shows Night (CANCELED)": [
                 "mousou_dairinin"
+            ],
+            "After Hours": [
+                "chuan_shu_zijiu_zhinan",
+                "vampire_holmes"
             ]
         },
         "Fall 2024": {
@@ -3315,6 +3326,12 @@
                 { "name": "Eternal", "url": "/public/themes/amq/gdgded.webm" }
             ]
         },
+        "gdgd_fairies_movie": {
+            "name": "Gekijouban gdgd Fairies tte Iu Eiga wa Dou kana...?",
+            "themes": [
+                { "name": "Oide yo! Yousei no Mori", "url": "/public/themes/amq/gdgdmovie.webm" }
+            ]
+        },
         "yubisaki_to_renren": {
             "name": "Yubisaki to Renren (A Sign of Affection)",
             "themes": [
@@ -3350,6 +3367,34 @@
         "blue_giant": {
             "name": "Blue Giant",
             "themes": []
+        },
+        "chuan_shu_zijiu_zhinan": {
+            "name": "Chuan Shu Zijiu Zhinan (Scumbag System)",
+            "themes": [
+                { "name": "Wang Yan Ge", "url": "/public/themes/scumbagop.webm" }
+            ]
+        },
+        "hanoka": {
+            "name": "Hanoka",
+            "themes": [
+                { "name": "Dual Love on the planet ~Hanoka~", "url": "/public/themes/amq/hanokaop.webm" }
+            ]
+        },
+        "fate_kaleid_liner_prisma_illya": {
+            "name": "Fate/kaleid liner Prisma☆Illya",
+            "themes": [
+                { "name": "starlog", "url": "https://v.animethemes.moe/FatePrismaIllya-OP1.webm" }
+            ]
+        },
+        "abunai_sisters_koko_and_mika": {
+            "name": "Abunai Sisters: Koko & Mika",
+            "themes": []
+        },
+        "vampire_holmes": {
+            "name": "Vampire Holmes",
+            "themes": [
+                { "name": "Everlasting Love", "url": "/private/themes/amq/vampireholmesop.webm" }
+            ]
         }
     },
     "disabled": [
