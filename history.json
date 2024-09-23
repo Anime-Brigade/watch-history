@@ -3263,6 +3263,10 @@
             "themes": [
                 { "name": "Sketch Switch", "url": "https://v.animethemes.moe/HidamariSketch-OP1.webm" }
             ]
+        },
+        "ginmaku_hetalia_axis_powers_paint_it_white": {
+            "name": "Hetalia Axis Powers Movie: Paint it, White",
+            "themes": []
         }
     },
     "disabled": []
