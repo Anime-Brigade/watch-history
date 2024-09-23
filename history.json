@@ -648,6 +648,10 @@
                 "shoujokageki_revue_starlight",
                 "houseki_no_kuni",
                 "grand_blue"
+            ],
+            "After Hours": [
+                "panty_and_stocking_with_garterbetlt",
+                "gdgd_fairies"
             ]
         },
         "Fall 2023": {
@@ -686,6 +690,11 @@
                 "chuunibyou_demo_koi_ga_shitai",
                 "vivy_fluorite_eyes_song",
                 "gekkan_shoujo_nozaki_kun"
+            ],
+            "After Hours": [
+                "nurse_witch_komugi_chan_magikarte",
+                "angel_cop",
+                "strike_witches"
             ]
         },
         "Spring 2024": {
@@ -694,7 +703,8 @@
             ],
             "Movie Night": [
                 "majo_no_takkyuubin",
-                "interstella5555"
+                "interstella5555",
+                "blue_giant"
             ],
             "Ken Night": [
                 "drifters"
@@ -711,6 +721,11 @@
                 "blue_archive_the_animation"
             ],
             "Seasonal Sampler (Winter 2024)": [
+                "yubisaki_to_renren",
+                "dungeon_meshi",
+                "ore_dake_level_up_na_ken"
+            ],
+            "Seasonal Sampler (Spring 2024)": [
                 "kaijuu_8_gou",
                 "bartender_kami_no_glass",
                 "ookami_to_koushinryou_merchant_meets_the_wise_wolf",
@@ -722,6 +737,15 @@
             "Show of the Week": [
                 "shouwa_genroku_rakugo_shinjuu"
             ],
+            "FLCL Night": [
+                "flcl"
+            ],
+            "Honorable Mentions Sampler": [
+                "yagate_kimi_ni_naru",
+                "girls_und_panzer",
+                "azumanga_daiou",
+                "space_dandy"
+            ],
             "Weekly Shows Night": [
                 "shiguang_dailiren",
                 "ping_pong_the_animation",
@@ -730,6 +754,14 @@
             ],
             "Weekly Shows Night (CANCELED)": [
                 "mousou_dairinin"
+            ]
+        },
+        "Fall 2024": {
+            "Weekly Shows Night": [
+                "saiki_kusuo_no_ps_nan",
+                "yojouhan_shinwa_taikei",
+                "sakamichi_no_apollon",
+                "cyberpunk_edgerunners"
             ]
         }
     },
@@ -745,7 +777,7 @@
             "name": "Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)",
             "themes": [
                 { "name": "Bouken Desho Desho?", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-OP2.webm" },
-                { "name": "God knows...", "url": "https://files.catbox.moe/4lft76.webm" },
+                { "name": "God knows...", "url": "/public/themes/amq/haruhigodknows.webm" },
                 { "name": "Hare Hare Yukai", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-ED1.webm" },
                 { "name": "Koi no Mikuru Densetsu", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-OP1.webm" }
             ],
@@ -774,13 +806,8 @@
             "name": "Code Geass: Hangyaku no Lelouch (Code Geass: Lelouch of the Rebellion)",
             "themes": [
                 { "name": "COLORS", "url": "https://v.animethemes.moe/CodeGeass-OP1.webm" },
-                { "name": "COLORS", "url": "https://v.animethemes.moe/CodeGeass-OP1v2.webm" },
-                { "name": "DICE", "url": "https://files.catbox.moe/lzvdml.webm" },
-                { "name": "Hitomi no Tsubasa", "url": "https://v.animethemes.moe/CodeGeass-OP3.webm" },
                 { "name": "Kaidoku Funou", "url": "https://v.animethemes.moe/CodeGeass-OP2.webm" },
-                { "name": "Kaidoku Funou", "url": "https://v.animethemes.moe/CodeGeass-OP2v2.webm" },
-                { "name": "PHOENIX PRAYER", "url": "https://files.catbox.moe/ocg7or.webm" },
-                { "name": "will-ill", "url": "https://files.catbox.moe/egj275.webm" }
+                { "name": "Hitomi no Tsubasa", "url": "https://v.animethemes.moe/CodeGeass-OP3.webm" }
             ],
             "comments01": "All Hail Britannia!!!: uninteresting song, uninteresting visuals",
             "comments02": "Alone: uninteresting song, uninteresting visuals",
@@ -798,8 +825,7 @@
             "parent": "code_geass_hangyaku_no_lelouch",
             "themes": [
                 { "name": "02~O-Two~", "url": "https://v.animethemes.moe/CodeGeassR2-OP1.webm" },
-                { "name": "Face2", "url": "https://files.catbox.moe/1tc7hx.webm" },
-                { "name": "WORLD END", "url": "https://v.animethemes.moe/CodeGeassR2-OP2v2.webm" }
+                { "name": "WORLD END", "url": "https://v.animethemes.moe/CodeGeassR2-OP2.webm" }
             ],
             "comments01": "Boku wa, Tori ni Naru.: uninteresting song, uninteresting visuals",
             "comments02": "Continued Story: exceeds length, uninteresting song, uninteresting visuals",
@@ -983,9 +1009,9 @@
             "name": "Lucky☆Star",
             "themes": [
                 { "name": "Ai wa Boomerang", "url": "https://v.animethemes.moe/LuckyStar-ED24.webm" },
-                { "name": "Gravity", "url": "https://files.catbox.moe/7tcohu.webm" },
+                { "name": "Gravity", "url": "/public/themes/amq/luckystargravity.webm" },
                 { "name": "Hare Hare Yukai", "url": "https://v.animethemes.moe/LuckyStar-ED14.webm" },
-                { "name": "Hare Hare Yukai", "url": "https://files.catbox.moe/63ya52.webm" },
+                { "name": "Hare Hare Yukai", "url": "/public/themes/amq/luckystarharehareyukai.webm" },
                 { "name": "Kaorin no Theme", "url": "https://v.animethemes.moe/LuckyStar-ED18.webm" },
                 { "name": "Mikuru Henshin! Soshite Sentou!", "url": "https://v.animethemes.moe/LuckyStar-ED23.webm" },
                 { "name": "Misoji Misaki", "url": "https://v.animethemes.moe/LuckyStar-ED16.webm" },
@@ -994,7 +1020,7 @@
                 { "name": "Omuko Rumba", "url": "https://v.animethemes.moe/LuckyStar-ED20.webm" },
                 { "name": "Ore no Wasuremono", "url": "https://v.animethemes.moe/LuckyStar-ED13.webm" },
                 { "name": "Otoko no Iki-sama", "url": "https://v.animethemes.moe/LuckyStar-ED19.webm" },
-                { "name": "Sakura Saku Mirai Koi Yume", "url": "https://files.catbox.moe/c9b6tg.webm" },
+                { "name": "Sakura Saku Mirai Koi Yume", "url": "/public/themes/amq/luckystarsakura.webm" },
                 { "name": "Shikaidaa no Uta", "url": "https://v.animethemes.moe/LuckyStar-ED21.webm" },
                 { "name": "Shiraishi Medley", "url": "https://v.animethemes.moe/LuckyStar-ED22.webm" }
             ],
@@ -1049,7 +1075,7 @@
         "angel_beats": {
             "name": "Angel Beats!",
             "themes": [
-                { "name": "Alchemy", "url": "https://files.catbox.moe/ubinei.webm" },
+                { "name": "Alchemy", "url": "/public/themes/amq/angelbeatsalchemy.webm" },
                 { "name": "My Soul, Your Beats!", "url": "https://v.animethemes.moe/AngelBeats-OP1.webm" },
                 { "name": "My Soul, Your Beats!", "url": "https://v.animethemes.moe/AngelBeats-OP2.webm" }
             ],
@@ -1064,7 +1090,7 @@
             "name": "The Big O",
             "themes": [
                 { "name": "Big-O!", "url": "https://v.animethemes.moe/TheBigO-OP1.webm" },
-                { "name": "Big-O! Show Must Go On", "url": "https://files.catbox.moe/prtv5x.webm" },
+                { "name": "Big-O! Show Must Go On", "url": "/public/themes/amq/bigoshow.webm" },
                 { "name": "Respect", "url": "https://v.animethemes.moe/TheBigO-OP2.webm" }
             ],
             "comments": "And Forever...: uninteresting visuals"
@@ -1335,18 +1361,9 @@
             "themes": [
                 { "name": "Cagayake! GIRLS (5-nin Ver.)", "url": "https://v.animethemes.moe/KOn-OP1v2.webm" },
                 { "name": "Don't say 'lazy'", "url": "https://animethemes.moe/video/KOn-ED1.webm" },
-                { "name": "Fude Pen Bo-ru Pen", "url": "https://files.catbox.moe/o09aon.webm" },
-                { "name": "Fuwa Fuwa Time (5nin)", "url": "https://files.catbox.moe/s7kihg.webm" },
-                { "name": "Watashi no Koi wa Hotch Kiss", "url": "https://files.catbox.moe/o6m009.webm" }
-            ]
-        },
-        "k_on_2010": {
-            "name": "K-On!!",
-            "parent": "k_on",
-            "themes": [
-                { "name": "Gohan wa Okazu", "url": "https://files.catbox.moe/kvvkmt.webm" },
-                { "name": "Love", "url": "https://files.catbox.moe/f5zw2k.webm" },
-                { "name": "U&I", "url": "https://files.catbox.moe/enurec.webm" }
+                { "name": "Fude Pen Bo-ru Pen", "url": "/public/themes/amq/konfudepen.webm" },
+                { "name": "Fuwa Fuwa Time (5nin)", "url": "/public/themes/amq/konfuwafuwa.webm" },
+                { "name": "Watashi no Koi wa Hotch Kiss", "url": "/public/themes/amq/konhotchkiss.webm" }
             ]
         },
         "nodame_cantabile": {
@@ -1381,7 +1398,7 @@
             "name": "Mahou Shoujo Madoka★Magica",
             "themes": [
                 { "name": "Connect", "url": "https://v.animethemes.moe/MadokaMagica-OP1-NCBD1080.webm" },
-                { "name": "Credens justitiam", "url": "https://files.catbox.moe/xgmi89.webm" }
+                { "name": "Credens justitiam", "url": "/public/themes/amq/madokacredens.webm" }
             ]
         },
         "pokemon": {
@@ -1393,7 +1410,7 @@
         "school_days": {
             "name": "School Days",
             "themes": [
-                { "name": "Innocent Blue", "url": "/public/themes/schooldaysop.webm" }
+                { "name": "Innocent Blue", "url": "/public/themes/amq/schooldaysop.webm" }
             ]
         },
         "mahou_shoujo_tai_arusu": {
@@ -1825,10 +1842,10 @@
             "name": "FLCL",
             "themes": [
                 { "name": "Ride On Shooting Star", "url": "https://animethemes.moe/video/FLCL-ED1.webm" },
-                { "name": "Little Busters", "url": "https://files.catbox.moe/m6wc6v.webm" },
-                { "name": "Hybrid Rainbow", "url": "https://files.catbox.moe/ucuhvm.webm" },
-                { "name": "One Life", "url": "https://files.catbox.moe/gn3caa.webm" },
-                { "name": "RUNNERS HIGH", "url": "https://files.catbox.moe/1gl17k.webm" }
+                { "name": "Little Busters", "url": "/public/themes/amq/flcllittlebusters.webm" },
+                { "name": "Hybrid Rainbow", "url": "/public/themes/amq/flclhybridrainbow.webm" },
+                { "name": "One Life", "url": "/public/themes/amq/flclonelife.webm" },
+                { "name": "RUNNERS HIGH", "url": "/public/themes/amq/flclrunnershigh.webm" }
             ]
         },
         "baka_to_test_to_shoukanjuu": {
@@ -2404,7 +2421,7 @@
             "themes": [
                 { "name": "Ugoku, Ugoku", "url": "https://animethemes.moe/video/ShoujoShuumatsuRyokou-OP1-NCBD1080.webm" },
                 { "name": "More One Night", "url": "https://animethemes.moe/video/ShoujoShuumatsuRyokou-ED1-NCBD1080.webm" },
-                { "name": "Amadare no Uta", "url": "https://files.catbox.moe/92ntpw.webm" }
+                { "name": "Amadare no Uta", "url": "/public/themes/amq/gltamadare.webm" }
             ]
         },
         "serial_experiments_lain": {
@@ -2432,8 +2449,8 @@
         "promare": {
             "name": "Promare",
             "themes": [
-                { "name": "Inferno", "url": "https://files.catbox.moe/b3k2lx.webm" },
-                { "name": "Nexus", "url": "https://files.catbox.moe/j39egn.webm" }
+                { "name": "Inferno", "url": "/public/themes/amq/promareinferno.webm" },
+                { "name": "Nexus", "url": "/public/themes/amq/promarenexus.webm" }
             ]
         },
         "ninja_slayer_from_animation": {
@@ -2519,13 +2536,13 @@
             "themes": [
                 { "name": "Maigo Inu to Ame no Beat", "url": "https://v.animethemes.moe/YojouhanShinwaTaikei-OP1.webm" },
                 { "name": "Kamisama no Iutoori", "url": "https://v.animethemes.moe/YojouhanShinwaTaikei-ED1.webm" },
-                { "name": "Maru wo Sagashite", "url": "https://files.catbox.moe/o4judk.webm" }
+                { "name": "Maru wo Sagashite", "url": "/public/themes/amq/tatamimaruwosagashite.webm" }
             ]
         },
         "kidou_keisatsu_patlabor": {
             "name": "Kidou Keisatsu Patlabor (Mobile Police Patlabor)",
             "themes": [
-                { "name": "Mirai wa Lovers", "url": "https://files.catbox.moe/6p6tv3.webm" }
+                { "name": "Mirai wa Lovers", "url": "https://v.animethemes.moe/MobilePolicePatlaborEarlyDays-OP1.webm" }
             ]
         },
         "mob_psycho_100": {
@@ -2558,7 +2575,7 @@
             "name": "NHK ni Youkoso! (Welcome to the N.H.K.)",
             "themes": [
                 { "name": "Puzzle", "url": "https://v.animethemes.moe/NHKNiYoukoso-OP1.webm" },
-                { "name": "Fushigi Purupuru Pururin Rin", "url": "https://files.catbox.moe/n6n4pg.webm" }
+                { "name": "Fushigi Purupuru Pururin Rin", "url": "/public/themes/amq/nhkpururin.webm" }
             ]
         },
         "kamisama_no_inai_nichiyoubi": {
@@ -2922,7 +2939,7 @@
         "sennen_joyuu": {
             "name": "Sennen Joyuu (Millennium Actress)",
             "themes": [
-                { "name": "Chiyoko no Theme Mode-1", "url": "https://files.catbox.moe/nhxvst.webm" }
+                { "name": "Chiyoko no Theme Mode-1", "url": "/public/themes/amq/millenniumop.webm" }
             ]
         },
         "mind_game": {
@@ -3053,11 +3070,15 @@
         },
         "hajime_no_ippo": {
             "name": "Hajime no Ippo",
-            "themes": []
+            "themes": [
+                { "name": "Under Star", "url": "https://v.animethemes.moe/HajimeNoIppo-OP1.webm" }
+            ]
         },
         "baki": {
             "name": "Baki",
-            "themes": []
+            "themes": [
+                { "name": "BEASTFUL", "url": "https://v.animethemes.moe/Baki-OP1.webm" }
+            ]
         },
         "kkhta": {
             "name": "Komeiji Koishi no Doki Doki Daibouken (Koishi Komeiji's Heart-Throbbing Adventure)",
@@ -3131,7 +3152,9 @@
         },
         "majo_no_takkyuubin": {
             "name": "Majo no Takkyuubin (Kiki's Delivery Service)",
-            "themes": []
+            "themes": [
+                { "name": "Rouge no Dengon", "url": "/public/themes/amq/kikiop.webm" }
+            ]
         },
         "akudama_drive": {
             "name": "Akudama Drive",
@@ -3267,7 +3290,78 @@
         "ginmaku_hetalia_axis_powers_paint_it_white": {
             "name": "Hetalia Axis Powers Movie: Paint it, White",
             "themes": []
+        },
+        "nurse_witch_komugi_chan_magikarte": {
+            "name": "Nurse Witch Komugi-chan Magikarte",
+            "themes": [
+                { "name": "Ai no Medicine", "url": "https://v.animethemes.moe/NurseWitchKomugiChanMagikarte-OP1.webm" },
+                { "name": "Ai no Medicine -Renewal-", "url": "https://v.animethemes.moe/NurseWitchKomugiChanMagikarte-OP2.webm" }
+            ]
+        },
+        "angel_cop": {
+            "name": "Angel Cop",
+            "themes": []
+        },
+        "panty_and_stocking_with_garterbetlt": {
+            "name": "Panty & Stocking with Garterbelt",
+            "themes": [
+                { "name": "Theme for Panty & Stocking", "url": "https://v.animethemes.moe/PantyAndStockingWithGarterbelt-OP1.webm" }
+            ]
+        },
+        "gdgd_fairies": {
+            "name": "gdgd Fairies",
+            "themes": [
+                { "name": "Oide yo! Yousei no Mori", "url": "/public/themes/amq/gdgdop.webm" },
+                { "name": "Eternal", "url": "/public/themes/amq/gdgded.webm" }
+            ]
+        },
+        "cyberpunk_edgerunners": {
+            "name": "Cyberpunk: Edgerunners",
+            "themes": [
+                { "name": "This Fffire", "url": "https://v.animethemes.moe/CyberpunkEdgerunners-OP1.webm" }
+            ]
+        },
+        "yubisaki_to_renren": {
+            "name": "Yubisaki to Renren (A Sign of Affection)",
+            "themes": [
+                { "name": "Yuki no Oto", "url": "https://v.animethemes.moe/YubisakiToRenren-OP1.webm" }
+            ]
+        },
+        "dungeon_meshi": {
+            "name": "Dungeon Meshi",
+            "themes": [
+                { "name": "Sleep Walking Orchestra", "url": "https://v.animethemes.moe/DungeonMeshi-OP1-NCBD1080.webm" },
+                { "name": "Unmei", "url": "https://v.animethemes.moe/DungeonMeshi-OP2.webm" }
+            ]
+        },
+        "ore_dake_level_up_na_ken": {
+            "name": "Ore dake Level Up na Ken (Solo Leveling)",
+            "themes": [
+                { "name": "LEveL", "url": "https://v.animethemes.moe/SoloLeveling-OP1.webm" }
+            ]
+        },
+        "yagate_kimi_ni_naru": {
+            "name": "Yagate Kimi ni Naru (Bloom Into You)",
+            "themes": [
+                { "name": "Kimi ni Furete", "url": "https://v.animethemes.moe/YagateKimiNiNaru-OP1-NCBD1080.webm" },
+                { "name": "X Jigen e Youkoso", "url": "https://v.animethemes.moe/SpaceDandy-ED1.webm" }
+            ]
+        },
+        "space_dandy": {
+            "name": "Space Dandy",
+            "themes": [
+                { "name": "Viva Namida", "url": "https://v.animethemes.moe/SpaceDandy-OP1.webm" }
+            ]
+        },
+        "blue_giant": {
+            "name": "Blue Giant",
+            "themes": []
         }
     },
-    "disabled": []
+    "disabled": [
+        "saiki_kusuo_no_ps_nan",
+        "yojouhan_shinwa_taikei",
+        "sakamichi_no_apollon",
+        "cyberpunk_edgerunners"
+    ]
 }
