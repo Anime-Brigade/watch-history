@@ -2323,9 +2323,8 @@
         "gintama": {
             "name": "Gintama",
             "themes": [
-                { "name": "", "url": "https://animethemes.moe/video/GintamaS2-OP1-NCBD1080.webm" },
-                { "name": "", "url": "https://animethemes.moe/video/GintamaPororiHen-OP1-NCBD1080.webm" },
-                { "name": "", "url": "https://animethemes.moe/video/Gintama-ED2.webm" }
+                { "name": "Pray", "url": "https://animethemes.moe/video/GintamaS2-OP1-NCBD1080.webm" },
+                { "name": "Mr Raindrop", "url": "https://animethemes.moe/video/Gintama-ED2.webm" }
             ]
         },
         "kono_subarashii_sekai_ni_shukufuku_wo": {
@@ -3098,7 +3097,7 @@
         "kkhta": {
             "name": "Komeiji Koishi no Doki Doki Daibouken (Koishi Komeiji's Heart-Throbbing Adventure)",
             "themes": [
-                { "name": "Opening Theme", "url": "/public/themes/kkhta.webm" }
+                { "name": "Ein Geistermädchen Von Hartmann", "url": "/public/themes/kkhta.webm" }
             ]
         },
         "sousou_no_frieren": {
