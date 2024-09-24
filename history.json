@@ -581,7 +581,7 @@
                 "tokyo_godfathers"
             ],
             "JoJo Night": [
-                "jo_jo_no_kimyou_na_bouken_part_6_stone_ocean"
+                "jo_jo_no_kimyou_na_bouken_part_6_stone_ocean_part_2"
             ],
             "Seasonal Sampler (Fall 2022)": [
                 "kage_no_jitsuryokusha_ni_naritakute",
@@ -788,9 +788,9 @@
             "name": "Suzumiya Haruhi no Yuuutsu (The Melancholy of Haruhi Suzumiya)",
             "themes": [
                 { "name": "Bouken Desho Desho?", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-OP2.webm" },
+                { "name": "Koi no Mikuru Densetsu", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-OP1.webm" },
                 { "name": "God knows...", "url": "/public/themes/amq/haruhigodknows.webm" },
-                { "name": "Hare Hare Yukai", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-ED1.webm" },
-                { "name": "Koi no Mikuru Densetsu", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-OP1.webm" }
+                { "name": "Hare Hare Yukai", "url": "https://v.animethemes.moe/SuzumiyaHaruhiNoYuuutsu-ED1.webm" }
             ],
             "comments": "Lost My Music: uninteresting visuals"
         },
@@ -884,13 +884,11 @@
         "tengen_toppa_gurren_lagann": {
             "name": "Tengen Toppa Gurren Lagann",
             "themes": [
-                { "name": "happily ever after", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED2.webm" },
-                { "name": "Minna no Peace", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED3.webm" },
                 { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1.webm" },
-                { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1v2.webm" },
                 { "name": "Sorairo Days", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-OP1v3.webm" },
                 { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1.webm" },
-                { "name": "UNDERGROUND", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED1v2.webm" }
+                { "name": "happily ever after", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED2.webm" },
+                { "name": "Minna no Peace", "url": "https://v.animethemes.moe/TengenToppaGurrenLagann-ED3.webm" }
             ],
             "comments1": "Gattai Nante Kuso Kurae!! (Gattai Sounyuukyoku Dai Ichi-ban C minor Allegro K2564): uninteresting visuals",
             "comments2": "happily ever after (v1): exceeds length, redundant, uninteresting visuals",
@@ -927,10 +925,7 @@
             "parent": "clannad",
             "themes": [
                 { "name": "Toki wo Kizamu Uta", "url": "https://v.animethemes.moe/ClannadAfterStory-OP1.webm" },
-                { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1.webm" },
-                { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1v2.webm" },
-                { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1v3.webm" },
-                { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1v4.webm" }
+                { "name": "Torch", "url": "https://v.animethemes.moe/ClannadAfterStory-ED1.webm" }
             ],
             "comments1": "Ana (v1): exceeds length",
             "comments2": "Ana (v2): exceeds length",
@@ -943,8 +938,8 @@
         "sousei_no_aquarion": {
             "name": "Sousei no Aquarion (Aquarion)",
             "themes": [
-                { "name": "Go Tight", "url": "https://v.animethemes.moe/SouseiNoAquarion-OP2.webm" },
-                { "name": "Sousei no Aquarion", "url": "https://v.animethemes.moe/SouseiNoAquarion-OP1.webm" }
+                { "name": "Sousei no Aquarion", "url": "https://v.animethemes.moe/SouseiNoAquarion-OP1.webm" },
+                { "name": "Go Tight", "url": "https://v.animethemes.moe/SouseiNoAquarion-OP2.webm" }
             ],
             "comments1": "Omna Magni (v1): uninteresting song, uninteresting visuals",
             "comments2": "Omna Magni (v2): uninteresting song"
@@ -973,8 +968,8 @@
         "asura_cryin": {
             "name": "Asura Cryin'",
             "themes": [
-                { "name": "Link", "url": "https://v.animethemes.moe/AsuraCryin-ED1.webm" },
-                { "name": "Spiral", "url": "https://v.animethemes.moe/AsuraCryin-OP1.webm" }
+                { "name": "Spiral", "url": "https://v.animethemes.moe/AsuraCryin-OP1.webm" },
+                { "name": "Link", "url": "https://v.animethemes.moe/AsuraCryin-ED1.webm" }
             ]
         },
         "princess_tutu": {
@@ -1004,7 +999,6 @@
             "name": "Heppoko Jikken Animation Excel♥Saga",
             "themes": [
                 { "name": "Ai (Chuuseishin)", "url": "https://v.animethemes.moe/ExcelSaga-OP1.webm" },
-                { "name": "Ai (Chuuseishin)", "url": "https://v.animethemes.moe/ExcelSaga-OP1v2.webm" },
                 { "name": "Menchi Aishou no Bolero", "url": "https://v.animethemes.moe/ExcelSaga-ED1.webm" },
                 { "name": "Menchi Aishou no Bolero (Gyakuna)", "url": "https://v.animethemes.moe/ExcelSaga-ED2.webm" }
             ]
@@ -1013,7 +1007,7 @@
             "name": "Jungle wa Itsumo Hare nochi Guu Deluxe (Haré+Guu Deluxe)",
             "themes": [
                 { "name": "Fun Fun & Shout", "url": "https://v.animethemes.moe/HareGuuDeluxe-ED1.webm" },
-                { "name": "Love Tropicana Deluxe", "url": "https://v.animethemes.moe/LuckyStar-ED13.webm" }
+                { "name": "Love Tropicana Deluxe", "url": "https://v.animethemes.moe/HareGuuDeluxe-OP1.webm" }
             ]
         },
         "luckystar": {
@@ -2211,6 +2205,7 @@
             "themes": [
                 { "name": "Iro wa Nioedo Chirinuru wo", "url": "https://v.animethemes.moe/GensouMangekyou-OP1.webm" },
                 { "name": "Tsuki ni Murakumo Hana ni Kaze", "url": "https://v.animethemes.moe/GensouMangekyou-OP2.webm" },
+                { "name": "Kachou Fuugetsu", "url": "https://v.animethemes.moe/GensouMangekyou-OP3.webm" },
                 { "name": "Utakata, Ai no Mahoroba", "url": "https://v.animethemes.moe/GensouMangekyou-OP4.webm" }
             ]
         },
@@ -2597,7 +2592,9 @@
         },
         "osana_reimu": {
             "name": "Osana Reimu",
-            "themes": []
+            "themes": [
+                { "name": "relic", "url": "/public/themes/osanareimued2.webm" }
+            ]
         },
         "yuri_on_ice": {
             "name": "Yuri!!! on ICE",
@@ -2611,8 +2608,15 @@
         },
         "jo_jo_no_kimyou_na_bouken_part_6_stone_ocean": {
             "name": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+            "parent": "jojo_no_kimyou_na_bouken",
             "themes": [
-                { "name": "STONE OCEAN", "url": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS6-OP1.webm" },
+                { "name": "STONE OCEAN", "url": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS6-OP1.webm" }
+            ]
+        },
+        "jo_jo_no_kimyou_na_bouken_part_6_stone_ocean_part_2": {
+            "name": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
+            "parent": "jojo_no_kimyou_na_bouken",
+            "themes": [
                 { "name": "Heaven's falling down", "url": "https://v.animethemes.moe/JojoNoKimyouNaBoukenS6-OP2.webm" }
             ]
         },
@@ -3354,14 +3358,14 @@
         "yagate_kimi_ni_naru": {
             "name": "Yagate Kimi ni Naru (Bloom Into You)",
             "themes": [
-                { "name": "Kimi ni Furete", "url": "https://v.animethemes.moe/YagateKimiNiNaru-OP1-NCBD1080.webm" },
-                { "name": "X Jigen e Youkoso", "url": "https://v.animethemes.moe/SpaceDandy-ED1.webm" }
+                { "name": "Kimi ni Furete", "url": "https://v.animethemes.moe/YagateKimiNiNaru-OP1-NCBD1080.webm" }
             ]
         },
         "space_dandy": {
             "name": "Space Dandy",
             "themes": [
-                { "name": "Viva Namida", "url": "https://v.animethemes.moe/SpaceDandy-OP1.webm" }
+                { "name": "Viva Namida", "url": "https://v.animethemes.moe/SpaceDandy-OP1.webm" },
+                { "name": "X Jigen e Youkoso", "url": "https://v.animethemes.moe/SpaceDandy-ED1.webm" }
             ]
         },
         "blue_giant": {
@@ -3393,7 +3397,7 @@
         "vampire_holmes": {
             "name": "Vampire Holmes",
             "themes": [
-                { "name": "Everlasting Love", "url": "/private/themes/amq/vampireholmesop.webm" }
+                { "name": "Everlasting Love", "url": "/public/themes/amq/vampireholmesop.webm" }
             ]
         }
     },
