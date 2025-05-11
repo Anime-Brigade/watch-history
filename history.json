@@ -79,7 +79,7 @@
                 "pokemon",
                 "school_days",
                 "mahou_shoujo_tai_arusu",
-                "rose_of_versailles",
+                "versailles_no_bara",
                 "ichiban_ushiro_no_daimaou",
                 "dennou_coil",
                 "shinryaku_ika_musume",
@@ -174,7 +174,7 @@
                 "battle_royal_high_school"
             ],
             "Random Episode": [
-                "ranma",
+                "ranma_1_2",
                 "ghost_in_the_shell",
                 "xxxholic",
                 "ouran_koukou_host_club",
@@ -772,7 +772,79 @@
                 "saiki_kusuo_no_ps_nan",
                 "yojouhan_shinwa_taikei",
                 "sakamichi_no_apollon",
-                "cyberpunk_edgerunners"
+                "cyberpunk_edgerunners",
+                "yoru_wa_mijikashi_arukeyo_otome"
+            ],
+            "Movie of the Week" : [
+                "kimitachi_wa_dou_ikiru_ka",
+                "koe_no_katachi",
+                "suzume_no_tojimari",
+                "sen_to_chihiro_no_kamikakushi",
+                "cowboy_bebop_tengoku_no_tobira"
+            ],
+            "Seasonal Sampler (Summer 2024)" : [
+                "nige_jouzu_no_wakagimi",
+                "isekai_suicide_squad",
+                "shoushimin_series",
+                "make_heroine_ga_oosugiru"
+            ],
+            "Seasonal Sampler (Fall 2024)" : [
+                "dandadan",
+                "ao_no_hako",
+                "ramna_1_2_2024",
+                "uzumaki"
+            ],
+            "Spooky Sampler" : [
+                "parasyte_the_maxim",
+                "soul_eater",
+                "shiki",
+                "mononoke"
+            ],
+            "Show of the Week" : [
+                "tengoku_daimakyou",
+                "ragna_crimson",
+                "vinland_saga"
+            ],
+            "VHS Night" : [
+                "versailles_no_bara",
+                "kodomo_no_omocha"
+            ]
+        },
+        "Spring 2025" : {
+            "Weekly Shows Night" : [
+                "chi",
+                "dorohedoro",
+                "kusuriya_no_hitorigoto",
+                "deca_dence"
+            ],
+            "Movie Night" : [
+                "kimi_no_na_wa",
+                "jujutsu_kaisen_0",
+                "look_back"
+            ],
+            "Seasonal Sampler (Winter 2025)" : [
+                "sakamoto_days",
+                "zenshu",
+                "medalist",
+                "honey_lemon_soda"
+            ],
+            "Seasonal Sampler (Spring 2025)" : [
+                "kowloon_generic_romance",
+                "lazarus",
+                "anne_shirley",
+                "shin_samurai_den_yaiba"
+            ],
+            "Aria Night" : [
+                "hataraku_saibou",
+                "hataraku_saibou_black",
+                "tenchi_souzou_design_bu",
+                "moyashimon"
+            ],
+            "Show of the Week" : [
+                "kirby"
+            ],
+            "Aiden Night" : [
+                "uma_musume_shin_jidai_no_tobira"
             ]
         }
     },
@@ -1424,7 +1496,7 @@
                 { "name": "ARS~Main Theme~", "url": "https://v.animethemes.moe/MahouShoujotaiArusu-OP1.webm" }
             ]
         },
-        "rose_of_versailles": {
+        "versailles_no_bara": {
             "name": "Rose of Versailles",
             "themes": [
                 { "name": "Bara wa Utsukushiku Chiru", "url": "https://v.animethemes.moe/RoseOfVersailles-OP1.webm" }
@@ -1771,7 +1843,7 @@
             "name": "Battle Royal High School",
             "themes": []
         },
-        "ranma": {
+        "ranma_1_2": {
             "name": "Ranma ½",
             "themes": [
                 { "name": "Jaja Uma ni Sasenai de", "url": "https://v.animethemes.moe/Ranma-OP1.webm" }
@@ -3133,7 +3205,7 @@
             ]
         },
         "kusuriya_no_hitorigoto": {
-            "name": "Kusuriya no Hitorigoto",
+            "name": "Kusuriya no Hitorigoto (Apothecary Diaries)",
             "themes": [
                 { "name": "Hana ni Natte", "url": "https://v.animethemes.moe/KusuriyaNoHitorigoto-OP1-NCBD1080.webm" },
                 { "name": "Ambivalent", "url": "https://v.animethemes.moe/KusuriyaNoHitorigoto-OP2.webm" }
@@ -3268,7 +3340,7 @@
             ]
         },
         "tengoku_daimakyou": {
-            "name": "Tengoku Daimakyou",
+            "name": "Tengoku Daimakyou (Heavenly Delusion)",
             "themes": [
                 { "name": "innocent arrogance", "url": "https://v.animethemes.moe/TengokuDaimakyou-OP1-NCBD1080.webm" }
             ]
@@ -3398,12 +3470,215 @@
             "themes": [
                 { "name": "Everlasting Love", "url": "/public/themes/amq/vampireholmesop.webm" }
             ]
+        },
+        "kimitachi_wa_dou_ikiru_ka" : {
+            "name": "Kimitachi wa Dou Ikiru ka (The Boy and the Heron)",
+            "themes": []
+        },
+        "koe_no_katachi" : {
+            "name" : "Koe no Katachi (A Silent Voice)",
+            "themes": [
+                { "name": "My Generation", "url": "https://v.animethemes.moe/KoeNoKatachi-OP1.webm" }
+            ]
+        },
+        "suzume_no_tojimari" : {
+            "name" : "Suzume",
+            "themes": []
+        },
+        "nige_jouzu_no_wakagimi": {
+            "name" : "Elusive Samurai",
+            "themes": [
+                { "name": "Plan A", "url": "https://v.animethemes.moe/Nigewaka-OP1.webm"},
+                { "name": "Kamakura STYLE", "url": "https://v.animethemes.moe/Nigewaka-ED1.webm" }
+            ]
+        },
+        "isekai_suicide_squad": {
+            "name" : "Isekai Suicide Squad",
+            "themes": [
+                { "name": "Another World", "url": "https://v.animethemes.moe/IsekaiSuicideSquad-OP1.webm"},
+                { "name": "Go Getters", "url": "https://v.animethemes.moe/IsekaiSuicideSquad-ED1.webm" }
+            ]
+        },
+        "shoushimin_series": {
+            "name" : "Shoushimin",
+            "themes": [
+                { "name": "Sweet Memory", "url": "https://v.animethemes.moe/ShoushiminSeries-OP1.webm"}
+            ]
+        },
+        "make_heroine_ga_oosugiru" : {
+            "name" : "Make Heroine ga Oosugiri! (Too Many Losing Heriones!)",
+            "themes": [
+                { "name": "Tsuyogaru Girl", "url": "https://v.animethemes.moe/Makeine-OP1.webm"},
+                { "name": "Love 2000", "url": "https://v.animethemes.moe/Makeine-ED1.webm"},
+                { "name": "CRAZY FOR YOU", "url": "https://v.animethemes.moe/Makeine-ED2.webm"}
+            ]
+        },
+        "sen_to_chihiro_no_kamikakushi" : {
+            "name" :"Spirited Away",
+            "themes" : []
+        },
+        "dandadan" : {
+            "name" : "Dandadan",
+            "themes": [
+                { "name": "Otonoke", "url": "https://v.animethemes.moe/Dandadan-OP1-NCBD1080.webm"},
+                { "name": "TAIDADA", "url": "https://v.animethemes.moe/Dandadan-ED1.webm"}
+            ]
+        },
+        "ao_no_hako" : {
+            "name":"Ao no Hako (Blue Box)",
+            "themes": [
+                { "name": "Same Blue", "url": "https://v.animethemes.moe/AoNoHako-OP1-NCBD1080.webm"},
+                { "name": "Shikaraba", "url": "https://v.animethemes.moe/AoNoHako-OP2-NCBD1080.webm"},
+                { "name": "Teenage Blue", "url": "https://v.animethemes.moe/AoNoHako-ED1.webm"},
+                { "name": "Contrast", "url": "https://v.animethemes.moe/AoNoHako-ED2.webm"}
+            ]
+        },
+        "ramna_1_2_2024": {
+            "name":"Ranma ½ (2024)",
+            "themes": [
+                { "name": "linazukkyun", "url": "https://v.animethemes.moe/Ranma2024-OP1.webm"},
+                { "name": "Shikaraba", "url": "https://v.animethemes.moe/Ranma2024-ED1.webm"}
+            ]
+        },
+        "uzumaki" : {
+            "name":"Uzumaki",
+            "themes": []
+        },
+        "parasyte_the_maxim" : {
+            "name":"Parasyte The Maxim",
+            "themes": [
+                { "name": "Let Me Hear", "url": "https://v.animethemes.moe/Kiseijuu-OP1.webm"}
+            ]
+        },
+        "kodomo_no_omocha" : {
+            "name":"Kodomo No Omocha",
+            "themes": [
+                { "name": "19 Ji no nyusu", "url": "https://v.animethemes.moe/KodomoNoOmocha-OP1.webm"},
+                { "name": "Panic", "url": "https://v.animethemes.moe/KodomoNoOmocha-ED1.webm"}
+            ]
+        },
+        "ragna_crimson" : {
+            "name":"Ragna Crimson",
+            "themes": [
+                { "name": "ROAR", "url": "https://v.animethemes.moe/RagnaCrimson-OP1.webm"},
+                { "name": "Kannousei Liberation", "url": "https://v.animethemes.moe/RagnaCrimson-OP2.webm" }
+            ]
+        },
+        "vinland_saga" : {
+            "name":"Vinland Saga",
+            "themes": [
+                { "name": "MUKANJYO", "url": "https://v.animethemes.moe/VinlandSaga-OP1-NCBD1080.webm"},
+                { "name": "Dark Crow", "url": "https://v.animethemes.moe/VinlandSaga-OP2-NCBD1080.webm" }
+            ]
+        },
+        "kimi_no_na_wa" : {
+            "name": "Your Name",
+            "themes": [
+                { "name": "Yume Tourou", "url": "https://v.animethemes.moe/KimiNoNaWa-OP1.webm"}
+            ]
+        },
+        "orb" : {
+            "name": "Orb: On the Movements of the Earth",
+            "themes": [
+                { "name": "Kaijuu", "url": "https://v.animethemes.moe/ChikyuuChi-OP1.webm"}
+            ]
+        },
+        "deca_dence" : {
+            "name": "Deca-Dence",
+            "themes": [
+                { "name": "Theater of Life", "url": "https://v.animethemes.moe/DecaDence-OP1-NCBD1080.webm"}
+            ] 
+        },
+        "jujutsu_kaisen_0" : {
+            "name": "Jujutsu Kaisen 0",
+            "themes": [] 
+        },
+        "sakamoto_days" : {
+            "name": "Sakamoto Days",
+            "themes": [
+                { "name": "Hashire Sakamoto", "url": "https://v.animethemes.moe/SakamotoDays-OP1.webm"}
+            ] 
+        },
+        "zenshu" : {
+            "name": "Zenshu",
+            "themes": [
+                { "name": "Zen", "url": "https://v.animethemes.moe/Zenshuu-OP1.webm"}
+            ] 
+        },
+        "medalist" : {
+            "name": "Medalist",
+            "themes": [
+                { "name": "BOW AND ARROW", "url": "https://v.animethemes.moe/Medalist-OP1-NCBD1080.webm"},
+                { "name": "Atashi no Dress", "url": "https://v.animethemes.moe/Medalist-ED1.webm"}
+            ] 
+        },
+        "honey_lemon_soda" : {
+            "name" : "Honey Lemon Soda",
+            "themes": [
+                { "name": "Magic Hour", "url": "https://v.animethemes.moe/HoneyLemonSoda-OP1.webm"},
+                { "name": "Wonderful World", "url": "https://v.animethemes.moe/HoneyLemonSoda-ED1.webm"}
+            ] 
+        },
+        "hataraku_saibou" : {
+            "name" : "Cells at Work!",
+            "themes": [
+                { "name": "Magic Hour", "url": "https://v.animethemes.moe/HatarakuSaibou-OP1-NCBD1080.webm"}
+            ] 
+        },
+        "hataraku_saibou_black" : {
+            "name" : "Cells at Work! CODE BLACK! ",
+            "themes": [
+                { "name": "Hashire!", "url": "https://v.animethemes.moe/HatarakuSaibouBlack-OP1-NCBD1080.webm"}
+            ] 
+        },
+        "tenchi_souzou_design_bu" : {
+            "name" : "Heaven's Design Team",
+            "themes": [
+                { "name": "Give it Up?", "url": "https://v.animethemes.moe/TenchiSouzouDesignBu-OP1.webm"}
+            ] 
+        },
+        "kirby" : {
+            "name" : "Kirby: Right Back At Ya!",
+            "themes": [
+                { "name": "Kirby March", "url": "https://v.animethemes.moe/HoshiNoKirby-OP1.webm"},
+                { "name": "Kirby!", "url": "https://v.animethemes.moe/HoshiNoKirby-OP2.webm"},
+                { "name": "Kirby Theme", "url": "/public/themes/amq/kirbykirbytheme.webm"}
+            ] 
+        },
+        "look_back" : {
+            "name" : "Look Back",
+            "themes": [] 
+        },
+        "kowloon_generic_romance" : {
+            "name" : "Kowloon Generic Romance",
+            "themes": [
+                { "name": "Kirby March", "url": "https://v.animethemes.moe/KowloonGenericRomance-OP1.webm"}
+            ] 
+        },
+        "lazarus" : {
+            "name" : "lazarus",
+            "themes": []
+        },
+        "anne_shirley" : {
+            "name" : "Anne Shirley",
+            "themes": [
+                { "name": "Yokan", "url": "https://v.animethemes.moe/AnneShirley-OP1.webm"}
+            ] 
+        },
+        "shin_samurai_den_yaiba" : {
+            "name" : "Shin Samurai-den Yaiba",
+            "themes": [
+                { "name": "BLADE", "url": "https://v.animethemes.moe/ShinSamuraiDenYaiba-OP1.webm"}
+            ] 
+        },
+        "uma_musume_shin_jidai_no_tobira" : {
+            "name" : "Uma Musume - Beginning of a New Era",
+            "themes": [
+                { "name": "Ready!! Steady!! Derby!!", "url": "https://v.animethemes.moe/UmaMusumeShinJidaiNoTobira-OP1.webm"}
+            ] 
         }
     },
     "disabled": [
-        "saiki_kusuo_no_ps_nan",
-        "yojouhan_shinwa_taikei",
-        "sakamichi_no_apollon",
-        "cyberpunk_edgerunners"
+        
     ]
 }
